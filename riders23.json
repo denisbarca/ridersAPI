@@ -1,0 +1,8436 @@
+{
+    "riders":[
+        {
+        "NUMERO": 1,
+        "COGNOME": "AASVOLD",
+        "NOME": "Kristian",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 2,
+        "COGNOME": "ABERASTURI",
+        "NOME": "Jonas",
+        "SQUADRA": "TREK",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 3,
+        "COGNOME": "ABRAHAMSEN",
+        "NOME": "Jonas",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 4,
+        "COGNOME": "ABREHA",
+        "NOME": "Negasi Haylu",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 5,
+        "COGNOME": "ACKERMANN",
+        "NOME": "Pascal",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 6,
+        "COGNOME": "ADAMIETZ",
+        "NOME": "Johannes",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 7,
+        "COGNOME": "ADRÌA",
+        "NOME": "Roger",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 8,
+        "COGNOME": "AFFINI",
+        "NOME": "Edoardo",
+        "SQUADRA": "JUMBO VISMA",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 9,
+        "COGNOME": "AGIRRE",
+        "NOME": "Jon",
+        "SQUADRA": "KERN PHARMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 10,
+        "COGNOME": "ALAPHILIPPE",
+        "NOME": "Julian",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 44
+        },
+        {
+        "NUMERO": 11,
+        "COGNOME": "ALBA",
+        "NOME": "Juan Diego",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 12,
+        "COGNOME": "ALBANESE",
+        "NOME": "Vincenzo",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 13,
+        "COGNOME": "ALEOTTI",
+        "NOME": "Giovanni",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 14,
+        "COGNOME": "ALLEGAERT",
+        "NOME": "Piet",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 15,
+        "COGNOME": "ALLENO",
+        "NOME": "Clement",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 16,
+        "COGNOME": "ALMEIDA",
+        "NOME": "Joao",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 31
+        },
+        {
+        "NUMERO": 17,
+        "COGNOME": "ALVAREZ",
+        "NOME": "Rodrigo",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 18,
+        "COGNOME": "AMADOR",
+        "NOME": "Andrey",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 19,
+        "COGNOME": "AMELLA",
+        "NOME": "Matteo",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 20,
+        "COGNOME": "AMEZQUETA",
+        "NOME": "Julien",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 21,
+        "COGNOME": "ANACONA",
+        "NOME": "Winner",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 22,
+        "COGNOME": "ANDERSEN",
+        "NOME": "Idar",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 23,
+        "COGNOME": "ANDERSEN",
+        "NOME": "Kasper",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 24,
+        "COGNOME": "ANDRESEN",
+        "NOME": "Tobias Lund",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 25,
+        "COGNOME": "ANGULO",
+        "NOME": "Antonio",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 26,
+        "COGNOME": "ANIOLKOWSKI",
+        "NOME": "Stanislaw",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 27,
+        "COGNOME": "APARICIO",
+        "NOME": "Mario",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 28,
+        "COGNOME": "APERS",
+        "NOME": "Ruben",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 29,
+        "COGNOME": "ARANBURU",
+        "NOME": "Alex",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 10
+        },
+        {
+        "NUMERO": 30,
+        "COGNOME": "ARASHIRO",
+        "NOME": "Yukiya",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 31,
+        "COGNOME": "ARCAS",
+        "NOME": "Jose",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 32,
+        "COGNOME": "ARCHBOLD",
+        "NOME": "Shane",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 33,
+        "COGNOME": "ARCHIBALD",
+        "NOME": "John",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 34,
+        "COGNOME": "ARDILA",
+        "NOME": "Andres Camilo",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 35,
+        "COGNOME": "ARENSMAN",
+        "NOME": "Thymen",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 26
+        },
+        {
+        "NUMERO": 36,
+        "COGNOME": "ARMÈE",
+        "NOME": "Sander",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 37,
+        "COGNOME": "ARMIRAIL",
+        "NOME": "Bruno",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 38,
+        "COGNOME": "ARNDT",
+        "NOME": "Niklas",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 39,
+        "COGNOME": "ARRIETA",
+        "NOME": "Igor",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 40,
+        "COGNOME": "ARROYAVE",
+        "NOME": "Daniel",
+        "SQUADRA": "ORGULLO PAISA",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 41,
+        "COGNOME": "ASGREEN",
+        "NOME": "Kasper",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 25
+        },
+        {
+        "NUMERO": 42,
+        "COGNOME": "ASKEY",
+        "NOME": "Lewis",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 43,
+        "COGNOME": "AULAR",
+        "NOME": "Orluis",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 44,
+        "COGNOME": "AWILA",
+        "NOME": "Edwin",
+        "SQUADRA": "SOSPESO 11-07-24"
+        },
+        {
+        "NUMERO": 45,
+        "COGNOME": "AYUSO",
+        "NOME": "Juan",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 31
+        },
+        {
+        "NUMERO": 46,
+        "COGNOME": "AZPARREN",
+        "NOME": "Enekoitz",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 47,
+        "COGNOME": "AZPARREN",
+        "NOME": "Xabier Mikel",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 48,
+        "COGNOME": "AZURMENDI",
+        "NOME": "Ibai",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 49,
+        "COGNOME": "BABOR",
+        "NOME": "Daniel",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 50,
+        "COGNOME": "BADILATTI",
+        "NOME": "Matteo",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 51,
+        "COGNOME": "BAGIOLI",
+        "NOME": "Andrea",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 16
+        },
+        {
+        "NUMERO": 52,
+        "COGNOME": "BAIS",
+        "NOME": "Davide",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 53,
+        "COGNOME": "BAIS",
+        "NOME": "Mattia",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 54,
+        "COGNOME": "BAKELANTS",
+        "NOME": "Jan",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 55,
+        "COGNOME": "BALDACCINI",
+        "NOME": "Davide",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 56,
+        "COGNOME": "BALDERSTONE",
+        "NOME": "Abel",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 57,
+        "COGNOME": "BALLARIN",
+        "NOME": "Iker",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 58,
+        "COGNOME": "BALLERINI",
+        "NOME": "Davide",
+        "SQUADRA": "QUICK-STEP",
+        "ITA": "🇮🇹",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 59,
+        "COGNOME": "BALLERSTEDT",
+        "NOME": "Maurice",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 60,
+        "COGNOME": "BALMER",
+        "NOME": "Alexandre",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 61,
+        "COGNOME": "BANASZEK",
+        "NOME": "Alan",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 62,
+        "COGNOME": "BARAC",
+        "NOME": "Antonio",
+        "SQUADRA": "CORRATEC",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 63,
+        "COGNOME": "BARBERO",
+        "NOME": "Carlos",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 64,
+        "COGNOME": "BARBIER",
+        "NOME": "Pierre",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 65,
+        "COGNOME": "BARBIER",
+        "NOME": "Rudy",
+        "SQUADRA": "ST MICHEL AUBER 93"
+        },
+        {
+        "NUMERO": 66,
+        "COGNOME": "BARCELO'",
+        "NOME": "Fernando",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 67,
+        "COGNOME": "BARDET",
+        "NOME": "Romain",
+        "SQUADRA": "DSM",
+        "VALORE": 27
+        },
+        {
+        "NUMERO": 68,
+        "COGNOME": "BARGUIL",
+        "NOME": "Warren",
+        "SQUADRA": "ARKEA",
+        "VALORE": 16
+        },
+        {
+        "NUMERO": 69,
+        "COGNOME": "BARONCINI",
+        "NOME": "Filippo",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 70,
+        "COGNOME": "BARRE",
+        "NOME": "Louis",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 71,
+        "COGNOME": "BARRENETXEA ",
+        "NOME": "Jon",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 72,
+        "COGNOME": "BARTA",
+        "NOME": "Tomas",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 73,
+        "COGNOME": "BARTA",
+        "NOME": "Will",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 74,
+        "COGNOME": "BARTHE",
+        "NOME": "Cyril",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 75,
+        "COGNOME": "BASKA",
+        "NOME": "Erik",
+        "SQUADRA": "DUKLA BANSKA"
+        },
+        {
+        "NUMERO": 76,
+        "COGNOME": "BASSETT",
+        "NOME": "Stephen",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 77,
+        "COGNOME": "BASSO",
+        "NOME": "Leonardo",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 78,
+        "COGNOME": "BATT",
+        "NOME": "Ethan",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 79,
+        "COGNOME": "BATTAGLIN",
+        "NOME": "Enrico",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 80,
+        "COGNOME": "BATTISTELLA",
+        "NOME": "Samuele",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 81,
+        "COGNOME": "BAUDIN",
+        "NOME": "Alex",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 82,
+        "COGNOME": "BAUER",
+        "NOME": "Jack",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 83,
+        "COGNOME": "BAUHAUS",
+        "NOME": "Phil",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 20
+        },
+        {
+        "NUMERO": 84,
+        "COGNOME": "BAX",
+        "NOME": "Sjoerd",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 85,
+        "COGNOME": "BAYER",
+        "NOME": "Tobias",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 86,
+        "COGNOME": "BEADLE",
+        "NOME": "Hamish",
+        "SQUADRA": "NOVO NORDISK ",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 87,
+        "COGNOME": "BELLICAUD",
+        "NOME": "Jeremy",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 88,
+        "COGNOME": "BENDIXEN",
+        "NOME": "Louis",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 89,
+        "COGNOME": "BENEDETTI",
+        "NOME": "Cesare",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 90,
+        "COGNOME": "BENEDETTI",
+        "NOME": "Gabriele",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 91,
+        "COGNOME": "BENHAMOUDA",
+        "NOME": "Mehdi",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 92,
+        "COGNOME": "BENNETT",
+        "NOME": "George",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 93,
+        "COGNOME": "BENNETT",
+        "NOME": "Sam",
+        "SQUADRA": "BORA",
+        "VALORE": 31
+        },
+        {
+        "NUMERO": 94,
+        "COGNOME": "BENNETT",
+        "NOME": "Sean",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 95,
+        "COGNOME": "BENOOT",
+        "NOME": "Tiesj ",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 96,
+        "COGNOME": "BERASATEGI",
+        "NOME": "Xabiet",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 97,
+        "COGNOME": "BERCKMOES",
+        "NOME": "Jenno",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 98,
+        "COGNOME": "BERHANE",
+        "NOME": "Natnael",
+        "SQUADRA": "TEAM BEYKOZ"
+        },
+        {
+        "NUMERO": 99,
+        "COGNOME": "BERHE",
+        "NOME": "Welay Hagos",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 100,
+        "COGNOME": "BERNAL",
+        "NOME": "Egan",
+        "SQUADRA": "INEOS",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 101,
+        "COGNOME": "BERNARD",
+        "NOME": "Julien",
+        "SQUADRA": "TREK",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 102,
+        "COGNOME": "BERRADE",
+        "NOME": "Urko",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 103,
+        "COGNOME": "BERTAZZO",
+        "NOME": "Liam",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 104,
+        "COGNOME": "BERTHET",
+        "NOME": "Clement",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 105,
+        "COGNOME": "BERWICK",
+        "NOME": "Sebastien",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 106,
+        "COGNOME": "BETTIOL",
+        "NOME": "Alberto",
+        "SQUADRA": "EF",
+        "ITA": "🇮🇹",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 107,
+        "COGNOME": "BEULLENS",
+        "NOME": "Cedric",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 108,
+        "COGNOME": "BEVILACQUA",
+        "NOME": "Simone",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 109,
+        "COGNOME": "BEVIN",
+        "NOME": "Patrick",
+        "SQUADRA": "DSM",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 110,
+        "COGNOME": "BIDARD",
+        "NOME": "Francoise",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 111,
+        "COGNOME": "BIERMANS",
+        "NOME": "Jenhte",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 112,
+        "COGNOME": "BILBAO",
+        "NOME": "Pello",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 32
+        },
+        {
+        "NUMERO": 113,
+        "COGNOME": "BISOLTI",
+        "NOME": "Alessandro",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 114,
+        "COGNOME": "BISSEGGER",
+        "NOME": "Stefan",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 115,
+        "COGNOME": "BITTNER",
+        "NOME": "Pavel",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 116,
+        "COGNOME": "BIZKARRA",
+        "NOME": "Mikel",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 117,
+        "COGNOME": "BJERG",
+        "NOME": "Mikkel",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 118,
+        "COGNOME": "BLIKRA",
+        "NOME": "Erlend",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 119,
+        "COGNOME": "BLOUWE",
+        "NOME": "Louis",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 120,
+        "COGNOME": "BOARO",
+        "NOME": "Manuele",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 121,
+        "COGNOME": "BOASSON HAGEN",
+        "NOME": "Edvald",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 122,
+        "COGNOME": "BODNAR",
+        "NOME": "Maciej ",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 123,
+        "COGNOME": "BOEV",
+        "NOME": "Igor",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 124,
+        "COGNOME": "BOGNA",
+        "NOME": "Alex",
+        "SQUADRA": "ALPECIN DEVELOPMENT",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 125,
+        "COGNOME": "BOHLI",
+        "NOME": "Tom",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 126,
+        "COGNOME": "BOILEAU ",
+        "NOME": "Alan",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 127,
+        "COGNOME": "BOIVIN",
+        "NOME": "Guillaume",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 128,
+        "COGNOME": "BOL",
+        "NOME": "Cees",
+        "SQUADRA": "ASTANA",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 129,
+        "COGNOME": "BOL",
+        "NOME": "Jetse",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 130,
+        "COGNOME": "BONIFAZIO",
+        "NOME": "Niccolò",
+        "SQUADRA": "INTERMARCHE",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 131,
+        "COGNOME": "BONILLO",
+        "NOME": "Iker",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 132,
+        "COGNOME": "BONNAMOUR",
+        "NOME": "Franck",
+        "SQUADRA": "?",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 133,
+        "COGNOME": "BONNET",
+        "NOME": "Thomas",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 134,
+        "COGNOME": "BONNEU",
+        "NOME": "Kamiel",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 135,
+        "COGNOME": "BOSTOCK",
+        "NOME": "Matthew",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 136,
+        "COGNOME": "BOU",
+        "NOME": "Joan",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 137,
+        "COGNOME": "BOUCHARD",
+        "NOME": "Geoffrey",
+        "SQUADRA": "AG2R",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 138,
+        "COGNOME": "BOUDAT",
+        "NOME": "Thomas",
+        "SQUADRA": "LILLE METROPOLE"
+        },
+        {
+        "NUMERO": 139,
+        "COGNOME": "BOUET",
+        "NOME": "Maxime",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 140,
+        "COGNOME": "BOUHANNI",
+        "NOME": "Nacer",
+        "SQUADRA": "ARKEA",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 141,
+        "COGNOME": "BOUWMAN",
+        "NOME": "Koen",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 13
+        },
+        {
+        "NUMERO": 142,
+        "COGNOME": "BRAET",
+        "NOME": "Vito",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 143,
+        "COGNOME": "BRAMBILLA",
+        "NOME": "Gianluca",
+        "SQUADRA": "Q36.5",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 144,
+        "COGNOME": "BRAND",
+        "NOME": "Sam",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 145,
+        "COGNOME": "BRENNER",
+        "NOME": "Marco",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1138,
+        "COGNOME": "BRUN",
+        "NOME": "Nils",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 146,
+        "COGNOME": "BRUNEL",
+        "NOME": "Alexis",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 147,
+        "COGNOME": "BRUSSENSKIY",
+        "NOME": "Gleb",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 148,
+        "COGNOME": "BRUSTENGA",
+        "NOME": "Marc",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 149,
+        "COGNOME": "BUCHMANN",
+        "NOME": "Emanuel",
+        "SQUADRA": "BORA",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 150,
+        "COGNOME": "BUITRAGO",
+        "NOME": "Santiago",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 151,
+        "COGNOME": "BURGAUDEAU",
+        "NOME": "Mathieu",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 152,
+        "COGNOME": "BURNETT",
+        "NOME": "Josh",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 153,
+        "COGNOME": "BYSTRØM",
+        "NOME": "Sven Erik",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 154,
+        "COGNOME": "CABEDO",
+        "NOME": "Oscar",
+        "SQUADRA": "TEAM VORARLBERG"
+        },
+        {
+        "NUMERO": 155,
+        "COGNOME": "CABOT",
+        "NOME": "Jeremy",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 156,
+        "COGNOME": "CAICEDO",
+        "NOME": "Jonathan Klever",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 157,
+        "COGNOME": "CALLE",
+        "NOME": "Juan Fernando",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 158,
+        "COGNOME": "CALMEJANE",
+        "NOME": "Lilian",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 159,
+        "COGNOME": "CALZONI",
+        "NOME": "Walter",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 160,
+        "COGNOME": "CAM",
+        "NOME": "Maxime",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 161,
+        "COGNOME": "CAMARGO",
+        "NOME": "Diego Andres",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 162,
+        "COGNOME": "CAMPENAERTS",
+        "NOME": "Victor",
+        "SQUADRA": "LOTTO",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 163,
+        "COGNOME": "CAMPRUBI",
+        "NOME": "Marcel",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 164,
+        "COGNOME": "CANAL",
+        "NOME": "Carlos",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 165,
+        "COGNOME": "CANAVERAL",
+        "NOME": "Johnatan",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 166,
+        "COGNOME": "CANOLA",
+        "NOME": "Marco",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 167,
+        "COGNOME": "CANTON",
+        "NOME": "Isaac",
+        "SQUADRA": "MANUELA FUNDACION"
+        },
+        {
+        "NUMERO": 168,
+        "COGNOME": "CAPIOT",
+        "NOME": "Amaury",
+        "SQUADRA": "ARKEA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 169,
+        "COGNOME": "CARAPAZ",
+        "NOME": "Richard",
+        "SQUADRA": "EF",
+        "VALORE": 41
+        },
+        {
+        "NUMERO": 170,
+        "COGNOME": "CARBONI",
+        "NOME": "Giovanni",
+        "SQUADRA": "KERN PHARMA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 171,
+        "COGNOME": "CARPENTER",
+        "NOME": "Robin",
+        "SQUADRA": "L39ION"
+        },
+        {
+        "NUMERO": 172,
+        "COGNOME": "CARR",
+        "NOME": "Simon",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 173,
+        "COGNOME": "CARRETERO",
+        "NOME": "Hector",
+        "SQUADRA": "KERN PHARMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 174,
+        "COGNOME": "CARTHY",
+        "NOME": "Hugh",
+        "SQUADRA": "EF",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 175,
+        "COGNOME": "CARUSO",
+        "NOME": "Damiano",
+        "SQUADRA": "BAHRAIN",
+        "ITA": "🇮🇹",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 176,
+        "COGNOME": "CARVALHO",
+        "NOME": "Andrè",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 177,
+        "COGNOME": "CASTRILLO",
+        "NOME": "Pablo",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 178,
+        "COGNOME": "CASTROVEJO",
+        "NOME": "Jonathan",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 179,
+        "COGNOME": "CATAFORD",
+        "NOME": "Alexander",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 180,
+        "COGNOME": "CATALDO",
+        "NOME": "Dario",
+        "SQUADRA": "TREK",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 181,
+        "COGNOME": "CATTANEO",
+        "NOME": "Mattia",
+        "SQUADRA": "QUICK-STEP",
+        "ITA": "🇮🇹",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 182,
+        "COGNOME": "CAVAGNA",
+        "NOME": "Remi",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 183,
+        "COGNOME": "CAVENDISH",
+        "NOME": "Mark",
+        "SQUADRA": "ASTANA",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 184,
+        "COGNOME": "CEPEDA",
+        "NOME": "Jefferson Alexander",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 185,
+        "COGNOME": "CEPEDA",
+        "NOME": "Jefferson Alveiro",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 186,
+        "COGNOME": "CERNY",
+        "NOME": "Josef",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 187,
+        "COGNOME": "CEURES",
+        "NOME": "Robbe",
+        "SQUADRA": "TEAM NOVONORDISK",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 188,
+        "COGNOME": "CHAMPION",
+        "NOME": "Thomas",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 189,
+        "COGNOME": "CHAMPOUSSIN",
+        "NOME": "Clement",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 190,
+        "COGNOME": "CHARMING",
+        "NOME": "Anthon",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1139,
+        "COGNOME": "CHARRIN",
+        "NOME": "Alois",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 191,
+        "COGNOME": "CHAVES",
+        "NOME": "Esteban",
+        "SQUADRA": "EF",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 192,
+        "COGNOME": "CHEREL",
+        "NOME": "Mikael",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 193,
+        "COGNOME": "CHERKASOV",
+        "NOME": "Nikolay",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 194,
+        "COGNOME": "CHERNETSKI",
+        "NOME": "Sergei",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 195,
+        "COGNOME": "CHEVALIER",
+        "NOME": "Maxime",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 196,
+        "COGNOME": "CHIRICO",
+        "NOME": "Luca",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 197,
+        "COGNOME": "CHRETIEN",
+        "NOME": "Charles-Etienne",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 198,
+        "COGNOME": "CHRISTEN",
+        "NOME": "Fabio",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1140,
+        "COGNOME": "CHRISTENSEN",
+        "NOME": "Ryan",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 199,
+        "COGNOME": "CHRISTIAN",
+        "NOME": "Mark",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 200,
+        "COGNOME": "CHZHAN",
+        "NOME": "Igor",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 201,
+        "COGNOME": "CICCONE",
+        "NOME": "Giulio",
+        "SQUADRA": "TREK",
+        "ITA": "🇮🇹",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 202,
+        "COGNOME": "CIMA",
+        "NOME": "Imerio",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 203,
+        "COGNOME": "CIMOLAI",
+        "NOME": "Davide",
+        "SQUADRA": "COFIDIS",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 204,
+        "COGNOME": "CIUCCARELLI",
+        "NOME": "Riccardo",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 205,
+        "COGNOME": "CLAEYS",
+        "NOME": "Arno",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 206,
+        "COGNOME": "CLANCY",
+        "NOME": "Stephen",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 207,
+        "COGNOME": "CLARKE",
+        "NOME": "Simon",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 208,
+        "COGNOME": "CLYNHENS",
+        "NOME": "Toon",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 209,
+        "COGNOME": "COBO",
+        "NOME": "Ivan",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 210,
+        "COGNOME": "COLLEONI",
+        "NOME": "Kevin",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 211,
+        "COGNOME": "COLMAN",
+        "NOME": "Alex",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 212,
+        "COGNOME": "COLNAGHI",
+        "NOME": "Luca",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 213,
+        "COGNOME": "COLOMBO",
+        "NOME": "Filippo",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 214,
+        "COGNOME": "COMBAUD",
+        "NOME": "Romain",
+        "SQUADRA": "DSM",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 215,
+        "COGNOME": "CONCA",
+        "NOME": "Filippo",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 216,
+        "COGNOME": "CONCI",
+        "NOME": "Nicola",
+        "SQUADRA": "ALPECIN",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 217,
+        "COGNOME": "CONFORTI",
+        "NOME": "Lorenzo",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 218,
+        "COGNOME": "CONSONNI",
+        "NOME": "Simone",
+        "SQUADRA": "COFIDIS",
+        "ITA": "🇮🇹",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 219,
+        "COGNOME": "CONTI",
+        "NOME": "Valerio",
+        "SQUADRA": "CORRATEC",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 220,
+        "COGNOME": "CONTRERAS",
+        "NOME": "Rodrigo",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 221,
+        "COGNOME": "COQUARD",
+        "NOME": "Bryan",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 11
+        },
+        {
+        "NUMERO": 222,
+        "COGNOME": "CORT",
+        "NOME": "Magnus",
+        "SQUADRA": "EF",
+        "VALORE": 19
+        },
+        {
+        "NUMERO": 223,
+        "COGNOME": "COSNEFROY",
+        "NOME": "Benoit",
+        "SQUADRA": "AG2R",
+        "VALORE": 23
+        },
+        {
+        "NUMERO": 224,
+        "COGNOME": "COSTA",
+        "NOME": "Rui",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 225,
+        "COGNOME": "COSTIOU",
+        "NOME": "Ewen",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 226,
+        "COGNOME": "COTE'",
+        "NOME": "Pier-Andre'",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 227,
+        "COGNOME": "COVI",
+        "NOME": "Alessandro",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 228,
+        "COGNOME": "COVILI",
+        "NOME": "Luca",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 229,
+        "COGNOME": "CRADDOCK",
+        "NOME": "Lawson",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 230,
+        "COGNOME": "CRAS",
+        "NOME": "Steff",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 231,
+        "COGNOME": "CUADRADO",
+        "NOME": "Unai",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 232,
+        "COGNOME": "CULLAIGH",
+        "NOME": "Gabriel",
+        "SQUADRA": "SAINT PIRAN"
+        },
+        {
+        "NUMERO": 1141,
+        "COGNOME": "CURRIE",
+        "NOME": "Logan",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 233,
+        "COGNOME": "DAEMEN",
+        "NOME": "Stijn",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 234,
+        "COGNOME": "DAINESE",
+        "NOME": "Alberto",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 235,
+        "COGNOME": "DAL-CIN",
+        "NOME": "Matteo",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 236,
+        "COGNOME": "DALLA VALLE",
+        "NOME": "NIcolas",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 237,
+        "COGNOME": "DAUGE",
+        "NOME": "Lucas",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 238,
+        "COGNOME": "DAUPHIN",
+        "NOME": "Florian",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 239,
+        "COGNOME": "DAVIES",
+        "NOME": "Corey",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 240,
+        "COGNOME": "DAVY",
+        "NOME": "Clement",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 241,
+        "COGNOME": "DE BOD",
+        "NOME": "Stefan",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 242,
+        "COGNOME": "DE BONDT",
+        "NOME": "Dries",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 243,
+        "COGNOME": "DE BUYST",
+        "NOME": "Jasper",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 244,
+        "COGNOME": "DE GENDT",
+        "NOME": "Aimè",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 245,
+        "COGNOME": "DE GENDT",
+        "NOME": "Thomas",
+        "SQUADRA": "LOTTO",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 246,
+        "COGNOME": "DE JONG",
+        "NOME": "Nino",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 247,
+        "COGNOME": "DE KEIJZER",
+        "NOME": "Gerd",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 248,
+        "COGNOME": "DE KLEIJN",
+        "NOME": "Arvid",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 249,
+        "COGNOME": "DE LA CRUZ",
+        "NOME": "David",
+        "SQUADRA": "ASTANA",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 250,
+        "COGNOME": "DE LA PARTE",
+        "NOME": "Victor",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 251,
+        "COGNOME": "DE LIE",
+        "NOME": "Arnaud",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 19
+        },
+        {
+        "NUMERO": 252,
+        "COGNOME": "DE MAEGHT",
+        "NOME": "Dorian",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 253,
+        "COGNOME": "DE MARCHI",
+        "NOME": "Alessandro",
+        "SQUADRA": "BIKE EXCHANGE",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 254,
+        "COGNOME": "DE PESTEL",
+        "NOME": "Sander",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 255,
+        "COGNOME": "DE PLUS",
+        "NOME": "Laurens",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 256,
+        "COGNOME": "DE POOTER",
+        "NOME": "Dries",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 257,
+        "COGNOME": "DE ROSSI",
+        "NOME": "Lucas",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 258,
+        "COGNOME": "DE TIER",
+        "NOME": "Floris",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 259,
+        "COGNOME": "DE VOS",
+        "NOME": "Adam",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 260,
+        "COGNOME": "DE VREESE",
+        "NOME": "Laurens",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 261,
+        "COGNOME": "DE VYLDER",
+        "NOME": "Lindsay",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 262,
+        "COGNOME": "DE WILDE",
+        "NOME": "Gilles",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 263,
+        "COGNOME": "DEBESAY",
+        "NOME": "Yakob",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 264,
+        "COGNOME": "DEBUSSCHERE",
+        "NOME": "Jens",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 266,
+        "COGNOME": "DECLERQ",
+        "NOME": "Tim",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 267,
+        "COGNOME": "DEGENKOLB",
+        "NOME": "John",
+        "SQUADRA": "DSM",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 268,
+        "COGNOME": "DEKKER",
+        "NOME": "David",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 269,
+        "COGNOME": "DELACROIX",
+        "NOME": "Theo",
+        "SQUADRA": "ST MICHEL AUBER 93",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 270,
+        "COGNOME": "DELAPLACE",
+        "NOME": "Anthony",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 271,
+        "COGNOME": "DELETTRE",
+        "NOME": "Alexandre",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 272,
+        "COGNOME": "DELPHIS",
+        "NOME": "Thomas",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 273,
+        "COGNOME": "DEMARE",
+        "NOME": "Arnaud",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 37
+        },
+        {
+        "NUMERO": 274,
+        "COGNOME": "DENNIS",
+        "NOME": "Rohan",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 275,
+        "COGNOME": "DENS",
+        "NOME": "Tuur",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 276,
+        "COGNOME": "DENZ",
+        "NOME": "Nico",
+        "SQUADRA": "BORA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 277,
+        "COGNOME": "DESAL",
+        "NOME": "Ceriel",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 278,
+        "COGNOME": "DEVENYNS",
+        "NOME": "Dries",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 279,
+        "COGNOME": "DEVRIENDT",
+        "NOME": "Tom",
+        "SQUADRA": "Q36.5",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 280,
+        "COGNOME": "DEWULF",
+        "NOME": "Stan",
+        "SQUADRA": "AG2R",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 281,
+        "COGNOME": "DIAZ",
+        "NOME": "Jose Manuel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 282,
+        "COGNOME": "DILLIER",
+        "NOME": "Silvan",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 283,
+        "COGNOME": "DINA",
+        "NOME": "Marton",
+        "SQUADRA": "ATT INVESTMENTS"
+        },
+        {
+        "NUMERO": 284,
+        "COGNOME": "DINHAM",
+        "NOME": "Matthew",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 285,
+        "COGNOME": "DLAMINI",
+        "NOME": "Nic",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 286,
+        "COGNOME": "DOMBROWSKI",
+        "NOME": "Joe",
+        "SQUADRA": "ASTANA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 287,
+        "COGNOME": "DOMINGUES",
+        "NOME": "Andre'",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 288,
+        "COGNOME": "DONOVAN",
+        "NOME": "Mark",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 289,
+        "COGNOME": "DOUBEY",
+        "NOME": "Fabien",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 290,
+        "COGNOME": "DOUBLE",
+        "NOME": "Paul",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 291,
+        "COGNOME": "DOULL",
+        "NOME": "Owain",
+        "SQUADRA": "EF",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 292,
+        "COGNOME": "DRAGE",
+        "NOME": "Jack",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 293,
+        "COGNOME": "DRIZNERS",
+        "NOME": "Jarrad",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 294,
+        "COGNOME": "DUJARDIN",
+        "NOME": "Sandy",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 295,
+        "COGNOME": "DUNBAR",
+        "NOME": "Eddie",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 296,
+        "COGNOME": "DUNNEWIND",
+        "NOME": "Jan",
+        "SQUADRA": "TEAM NOVONORDISK",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 297,
+        "COGNOME": "DUPONT",
+        "NOME": "Timothy",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 298,
+        "COGNOME": "DURBRIDGE",
+        "NOME": "Luke",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 299,
+        "COGNOME": "DVERSNES",
+        "NOME": "Fredrik",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 300,
+        "COGNOME": "EDET",
+        "NOME": "Nicolas",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 301,
+        "COGNOME": "EDMONDSON",
+        "NOME": "Alex",
+        "SQUADRA": "DSM",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 302,
+        "COGNOME": "EEKHOFF",
+        "NOME": "Nils",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 303,
+        "COGNOME": "EENKHOORN",
+        "NOME": "Pascal",
+        "SQUADRA": "LOTTO",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 304,
+        "COGNOME": "EG",
+        "NOME": "Niklas",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 305,
+        "COGNOME": "EIKING",
+        "NOME": "Odd Christian",
+        "SQUADRA": "EF",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 306,
+        "COGNOME": "EINHORN",
+        "NOME": "Itamar",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 307,
+        "COGNOME": "EL FARES",
+        "NOME": "Julien",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 308,
+        "COGNOME": "EL GOUZI",
+        "NOME": "Omar",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 309,
+        "COGNOME": "ELISSONDE",
+        "NOME": "Kenny",
+        "SQUADRA": "TREK",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 310,
+        "COGNOME": "ELOSEGUI",
+        "NOME": "Inigo",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 311,
+        "COGNOME": "ENGELHARDT",
+        "NOME": "Felix",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1142,
+        "COGNOME": "ERIKSSON",
+        "NOME": "Jacob",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1143,
+        "COGNOME": "ERIKSSON",
+        "NOME": "Lucas",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 312,
+        "COGNOME": "ERVITI",
+        "NOME": "Imanol ",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 313,
+        "COGNOME": "ETXEBARRIA",
+        "NOME": "Josu",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 314,
+        "COGNOME": "ETXEBERRIA",
+        "NOME": "Asier",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 315,
+        "COGNOME": "EVANS",
+        "NOME": "Alexander",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 316,
+        "COGNOME": "EVENEPOEL",
+        "NOME": "Remco",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 60
+        },
+        {
+        "NUMERO": 317,
+        "COGNOME": "EWAN",
+        "NOME": "Caleb",
+        "SQUADRA": "LOTTO",
+        "VALORE": 27
+        },
+        {
+        "NUMERO": 318,
+        "COGNOME": "EZQUERRA",
+        "NOME": "Jesus",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 319,
+        "COGNOME": "FABBRO",
+        "NOME": "Matteo",
+        "SQUADRA": "BORA",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 320,
+        "COGNOME": "FANCELLU",
+        "NOME": "Alessandro",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 321,
+        "COGNOME": "FEDELI",
+        "NOME": "Alessandro",
+        "SQUADRA": "Q36.5",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 322,
+        "COGNOME": "FEDOROV",
+        "NOME": "Yevgeniy",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 323,
+        "COGNOME": "FELLINE",
+        "NOME": "Fabio",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 324,
+        "COGNOME": "FENG",
+        "NOME": "Chun Kai",
+        "SQUADRA": "UTSONOMIYA BLITZEN"
+        },
+        {
+        "NUMERO": 326,
+        "COGNOME": "FERNANDEZ",
+        "NOME": "Delio",
+        "SQUADRA": "GENERAL-TAVIRA"
+        },
+        {
+        "NUMERO": 327,
+        "COGNOME": "FERNANDEZ",
+        "NOME": "Miguel Angel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 328,
+        "COGNOME": "FERNANDEZ",
+        "NOME": "Ruben",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 329,
+        "COGNOME": "FERRI",
+        "NOME": "Gregorio",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 330,
+        "COGNOME": "FERRON",
+        "NOME": "Valentin",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 331,
+        "COGNOME": "FETTER",
+        "NOME": "Erik",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 332,
+        "COGNOME": "FINE'",
+        "NOME": "Eddy",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 333,
+        "COGNOME": "FIORELLI",
+        "NOME": "Filippo",
+        "SQUADRA": "BARDIANI",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 334,
+        "COGNOME": "FISHER-BLACK",
+        "NOME": "Finn",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 335,
+        "COGNOME": "FITZSIMONS",
+        "NOME": "Mitchel",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 336,
+        "COGNOME": "FLOREZ",
+        "NOME": "Miguel Eduardo",
+        "SQUADRA": "GW SHIMANO"
+        },
+        {
+        "NUMERO": 337,
+        "COGNOME": "FLYNN",
+        "NOME": "Sean",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 338,
+        "COGNOME": "FORMOLO",
+        "NOME": "Davide",
+        "SQUADRA": "UAE EMIRATES",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 339,
+        "COGNOME": "FORTUNATO",
+        "NOME": "Lorenzo",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 340,
+        "COGNOME": "FOSS",
+        "NOME": "Tobias",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 341,
+        "COGNOME": "FOUCHE",
+        "NOME": "James",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 342,
+        "COGNOME": "FRAILE",
+        "NOME": "Omar",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 343,
+        "COGNOME": "FRANCO",
+        "NOME": "Alejandro",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 344,
+        "COGNOME": "FRANKINY",
+        "NOME": "Kilian",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 345,
+        "COGNOME": "FRAPPORTI",
+        "NOME": "Marco",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 346,
+        "COGNOME": "FREDHEIM",
+        "NOME": "Stian",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 347,
+        "COGNOME": "FRETIN",
+        "NOME": "Milan",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 348,
+        "COGNOME": "FRIGO",
+        "NOME": "Marco",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 349,
+        "COGNOME": "FRISON",
+        "NOME": "Frederik",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1144,
+        "COGNOME": "FROIDEVAUX",
+        "NOME": "Robin",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 350,
+        "COGNOME": "FROOME",
+        "NOME": "Chris",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 351,
+        "COGNOME": "FUENTES",
+        "NOME": "Angel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 352,
+        "COGNOME": "FUGLSANG",
+        "NOME": "Jakob",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 353,
+        "COGNOME": "GABBURO",
+        "NOME": "Davide",
+        "SQUADRA": "BARDIANI",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 354,
+        "COGNOME": "GALL",
+        "NOME": "Felix",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 355,
+        "COGNOME": "GALLOPIN",
+        "NOME": "Tony",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 356,
+        "COGNOME": "GALVAN",
+        "NOME": "Francisco",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 357,
+        "COGNOME": "GAMPER",
+        "NOME": "Patrick",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 358,
+        "COGNOME": "GANDIN",
+        "NOME": "Stefano",
+        "SQUADRA": "CORRATEC",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 359,
+        "COGNOME": "GANNA",
+        "NOME": "FIlippo",
+        "SQUADRA": "INEOS",
+        "ITA": "🇮🇹",
+        "VALORE": 23
+        },
+        {
+        "NUMERO": 360,
+        "COGNOME": "GARCIA",
+        "NOME": "Jhojan",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 361,
+        "COGNOME": "GARCIA FRANCES",
+        "NOME": "Pablo",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 362,
+        "COGNOME": "GARCIA GONZALEZ",
+        "NOME": "Sergio",
+        "SQUADRA": "GLASSDRIVE Q8",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 363,
+        "COGNOME": "GARCIA PIERNA",
+        "NOME": "Carlos",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 364,
+        "COGNOME": "GARCIA PIERNA",
+        "NOME": "Raul",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 365,
+        "COGNOME": "GARCINA CORTINA",
+        "NOME": "Ivan",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 366,
+        "COGNOME": "GAROFOLI",
+        "NOME": "Gianmarco",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 367,
+        "COGNOME": "GAROSIO",
+        "NOME": "Andrea",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 368,
+        "COGNOME": "GARRISON",
+        "NOME": "Ian",
+        "SQUADRA": "L39ION",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 369,
+        "COGNOME": "GATE",
+        "NOME": "Aaron",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 370,
+        "COGNOME": "GAUDU",
+        "NOME": "David",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 28
+        },
+        {
+        "NUMERO": 371,
+        "COGNOME": "GAUTHERAT",
+        "NOME": "Pierre",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 372,
+        "COGNOME": "GAUTIER",
+        "NOME": "Cyril",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 373,
+        "COGNOME": "GAVAZZI",
+        "NOME": "Francesco",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 374,
+        "COGNOME": "GAVIRIA",
+        "NOME": "Fernando",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 375,
+        "COGNOME": "GAZE",
+        "NOME": "Samuel",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 376,
+        "COGNOME": "GAZZOLI",
+        "NOME": "Michele",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 377,
+        "COGNOME": "GEE",
+        "NOME": "Derek",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 378,
+        "COGNOME": "GENIETS",
+        "NOME": "Kevin",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 379,
+        "COGNOME": "GEOGHEGAN HART",
+        "NOME": "Tao",
+        "SQUADRA": "INEOS",
+        "VALORE": 13
+        },
+        {
+        "NUMERO": 380,
+        "COGNOME": "GERITS",
+        "NOME": "Vince",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 381,
+        "COGNOME": "GERMANI",
+        "NOME": "Lorenzo",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 382,
+        "COGNOME": "GESBERT",
+        "NOME": "Elie",
+        "SQUADRA": "ARKEA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 383,
+        "COGNOME": "GESCHKE",
+        "NOME": "Simon",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 384,
+        "COGNOME": "GESINK",
+        "NOME": "Robert",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 385,
+        "COGNOME": "GHEBREIGZABHIER",
+        "NOME": "Amanuel",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 386,
+        "COGNOME": "GHYS",
+        "NOME": "Robbe",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 387,
+        "COGNOME": "GIBBONS",
+        "NOME": "Ryan",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 388,
+        "COGNOME": "GIBSON",
+        "NOME": "Matthew",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 389,
+        "COGNOME": "GIDICH",
+        "NOME": "Yevgeniy",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 390,
+        "COGNOME": "GIRMAY HAILU",
+        "NOME": "Biniam",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 33
+        },
+        {
+        "NUMERO": 391,
+        "COGNOME": "GLOAG",
+        "NOME": "Thomas",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 392,
+        "COGNOME": "GODON",
+        "NOME": "Dorian",
+        "SQUADRA": "AG2R",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 393,
+        "COGNOME": "GOGL",
+        "NOME": "Michael",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 394,
+        "COGNOME": "GOH",
+        "NOME": "Choon Huat",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 395,
+        "COGNOME": "GOIKOETXEA",
+        "NOME": "Peio",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 396,
+        "COGNOME": "GOLDESTEIN",
+        "NOME": "Omar",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 397,
+        "COGNOME": "GONZALEZ",
+        "NOME": "Abner",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 398,
+        "COGNOME": "GONZALEZ",
+        "NOME": "David",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 399,
+        "COGNOME": "GONZALEZ",
+        "NOME": "Roberto Carlos",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 400,
+        "COGNOME": "GOOSENS",
+        "NOME": "Kobe",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 401,
+        "COGNOME": "GOUGEARD",
+        "NOME": "Alexis",
+        "SQUADRA": "?",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 402,
+        "COGNOME": "GOUGH",
+        "NOME": "Rega ",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 403,
+        "COGNOME": "GOVEKAR",
+        "NOME": "Matevz",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 404,
+        "COGNOME": "GRADEK",
+        "NOME": "Kamil",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 405,
+        "COGNOME": "GRAGAARD",
+        "NOME": "Jonas",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 406,
+        "COGNOME": "GRAVALOS",
+        "NOME": "Arturo",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 407,
+        "COGNOME": "GREENBERG",
+        "NOME": "Cory",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 408,
+        "COGNOME": "GREGOIRE",
+        "NOME": "Romain",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 409,
+        "COGNOME": "GRELLIER",
+        "NOME": "Fabien",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 410,
+        "COGNOME": "GRIGNARD",
+        "NOME": "Sebastien",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 411,
+        "COGNOME": "GRMAY",
+        "NOME": "Tsgabu",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 412,
+        "COGNOME": "GROENEWEGEN",
+        "NOME": "Dylan",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 413,
+        "COGNOME": "GRONDIN",
+        "NOME": "Donovan",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 414,
+        "COGNOME": "GROß",
+        "NOME": "Felix",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 415,
+        "COGNOME": "GROßSCHARTNER",
+        "NOME": "Felix",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 416,
+        "COGNOME": "GROSU",
+        "NOME": "Eduard-Michael",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 417,
+        "COGNOME": "GROVES",
+        "NOME": "Kaden",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 418,
+        "COGNOME": "GRUZDEV",
+        "NOME": "Dmitriy",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 419,
+        "COGNOME": "GUARNIERI",
+        "NOME": "Jacopo",
+        "SQUADRA": "LOTTO",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 420,
+        "COGNOME": "GUDMESTAD",
+        "NOME": "Tord",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 421,
+        "COGNOME": "GUERIN",
+        "NOME": "Alexis",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 422,
+        "COGNOME": "GUERNALEC",
+        "NOME": "Thibault",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 423,
+        "COGNOME": "GUERREIRO",
+        "NOME": "Ruben",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 11
+        },
+        {
+        "NUMERO": 424,
+        "COGNOME": "GUGLIELMI",
+        "NOME": "Simon",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 425,
+        "COGNOME": "HAGA",
+        "NOME": "Chad",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 426,
+        "COGNOME": "HAGEN",
+        "NOME": "Carl Fredrik",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 427,
+        "COGNOME": "HAIG",
+        "NOME": "Jack",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 428,
+        "COGNOME": "HAILEMICHAEL",
+        "NOME": "Mulu Kinfe",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 429,
+        "COGNOME": "HALLER",
+        "NOME": "Marco",
+        "SQUADRA": "BORA",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 430,
+        "COGNOME": "HALVORSEN",
+        "NOME": "Kristoffer",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 431,
+        "COGNOME": "HAMILTON",
+        "NOME": "Chris",
+        "SQUADRA": "DSM",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 432,
+        "COGNOME": "HAMILTON",
+        "NOME": "Lucas",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 433,
+        "COGNOME": "HANNINEN",
+        "NOME": "Jaakko",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 434,
+        "COGNOME": "HANSEN",
+        "NOME": "Lasse Norman",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 435,
+        "COGNOME": "HARPER",
+        "NOME": "Chris",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 436,
+        "COGNOME": "HAUSSLER",
+        "NOME": "Heinrich",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 437,
+        "COGNOME": "HAYTER",
+        "NOME": "Ethan",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 28
+        },
+        {
+        "NUMERO": 438,
+        "COGNOME": "HAYTER",
+        "NOME": "Leo",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 439,
+        "COGNOME": "HEALY",
+        "NOME": "Ben",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 440,
+        "COGNOME": "HECHT",
+        "NOME": "Gage",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 441,
+        "COGNOME": "HEIDEMANN",
+        "NOME": "Miguel",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 442,
+        "COGNOME": "HEIDUK",
+        "NOME": "Kim",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 443,
+        "COGNOME": "HEINSCHKE",
+        "NOME": "Leon",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 444,
+        "COGNOME": "HELLEMOSE",
+        "NOME": "Asbjorn",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 445,
+        "COGNOME": "HEMING",
+        "NOME": "Mika",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 446,
+        "COGNOME": "HENAO",
+        "NOME": "Sebastian",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 447,
+        "COGNOME": "HENAO",
+        "NOME": "Sergio",
+        "SQUADRA": "2NBIKE"
+        },
+        {
+        "NUMERO": 448,
+        "COGNOME": "HENTTALA",
+        "NOME": "Joonas",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 449,
+        "COGNOME": "HEPBURN",
+        "NOME": "Michael",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 450,
+        "COGNOME": "HERMANS",
+        "NOME": "Ben",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 451,
+        "COGNOME": "HERMANS",
+        "NOME": "Quinten",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 452,
+        "COGNOME": "HERRADA",
+        "NOME": "Jesus",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 453,
+        "COGNOME": "HERRADA",
+        "NOME": "Jose",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 454,
+        "COGNOME": "HERREGODTS",
+        "NOME": "Rune",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 455,
+        "COGNOME": "HERZOG",
+        "NOME": "Emil",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 456,
+        "COGNOME": "HESSMANN",
+        "NOME": "Michel",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 457,
+        "COGNOME": "HESTERS",
+        "NOME": "Jules",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 458,
+        "COGNOME": "HIGUITA",
+        "NOME": "Sergio",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 36
+        },
+        {
+        "NUMERO": 459,
+        "COGNOME": "HINDLEY",
+        "NOME": "Jay",
+        "SQUADRA": "BORA",
+        "VALORE": 33
+        },
+        {
+        "NUMERO": 460,
+        "COGNOME": "HINDSGAUL MADSEN",
+        "NOME": "Jacob",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 461,
+        "COGNOME": "HIRSCI",
+        "NOME": "Marc",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 462,
+        "COGNOME": "HIRT",
+        "NOME": "Jan",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 463,
+        "COGNOME": "HODEG",
+        "NOME": "Alvaro Jose",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 464,
+        "COGNOME": "HOELGAARD",
+        "NOME": "Markus",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 465,
+        "COGNOME": "HOFSTEDE",
+        "NOME": "Lennard",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 466,
+        "COGNOME": "HOFSTETTER",
+        "NOME": "Hugo",
+        "SQUADRA": "ARKEA",
+        "VALORE": 10
+        },
+        {
+        "NUMERO": 467,
+        "COGNOME": "HOLLESTEIN",
+        "NOME": "Reto",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 468,
+        "COGNOME": "HOLLMANN",
+        "NOME": "Juri",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 469,
+        "COGNOME": "HOLLYMAN",
+        "NOME": "Mason",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 470,
+        "COGNOME": "HOLMES",
+        "NOME": "Matthew",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 471,
+        "COGNOME": "HOLTER",
+        "NOME": "Adne",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 472,
+        "COGNOME": "HOLTER",
+        "NOME": "Trym Westgaard",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 473,
+        "COGNOME": "HONORE'",
+        "NOME": "Mikkel Frolich",
+        "SQUADRA": "EF",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 474,
+        "COGNOME": "HOOLE",
+        "NOME": "Daan",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 475,
+        "COGNOME": "HOULE",
+        "NOME": "Hugo",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 476,
+        "COGNOME": "HOWES",
+        "NOME": "Alex",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 477,
+        "COGNOME": "HOWSON",
+        "NOME": "Damien",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 478,
+        "COGNOME": "HUYS",
+        "NOME": "Laurens",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 479,
+        "COGNOME": "HVIDEBERG",
+        "NOME": "Jonas Iverrsby",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 480,
+        "COGNOME": "IACCHI",
+        "NOME": "Alessandro",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 481,
+        "COGNOME": "IMPEY",
+        "NOME": "Daryl",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 482,
+        "COGNOME": "INKELAAR",
+        "NOME": "Kevin",
+        "SQUADRA": "LEOPARD CYCLING",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 483,
+        "COGNOME": "IRIBAR",
+        "NOME": "Unai",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 484,
+        "COGNOME": "IRVINE",
+        "NOME": "Declan",
+        "SQUADRA": "TEAM NOVONORDISK",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 485,
+        "COGNOME": "ISASA",
+        "NOME": "Xabier",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 486,
+        "COGNOME": "ISHIGAMI",
+        "NOME": "Masahiro",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 487,
+        "COGNOME": "ITURRIA",
+        "NOME": "Mikel",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 488,
+        "COGNOME": "IZAGIRRE",
+        "NOME": "Gorka",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 489,
+        "COGNOME": "IZAGIRRE",
+        "NOME": "Ion",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 490,
+        "COGNOME": "JACKSON",
+        "NOME": "George",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 491,
+        "COGNOME": "JACOBS",
+        "NOME": "Johan",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 492,
+        "COGNOME": "JAIME",
+        "NOME": "Alex",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 493,
+        "COGNOME": "JAKOBSEN",
+        "NOME": "Fabio",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 34
+        },
+        {
+        "NUMERO": 494,
+        "COGNOME": "JANSE VAN RENSBURG",
+        "NOME": "Jense",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 495,
+        "COGNOME": "JANSEN",
+        "NOME": "Amund Grondahl",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 496,
+        "COGNOME": "JANSSENS",
+        "NOME": "Jimmy",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 497,
+        "COGNOME": "JARNET",
+        "NOME": "Maxime",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 498,
+        "COGNOME": "JEANNIERE",
+        "NOME": "Emilien",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 499,
+        "COGNOME": "JENSEN",
+        "NOME": "August",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 500,
+        "COGNOME": "JERMAN",
+        "NOME": "Ziga",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 501,
+        "COGNOME": "JIMENEZ",
+        "NOME": "Jesus David Pena",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 502,
+        "COGNOME": "JOHANNESSEN",
+        "NOME": "Anders Halland",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 503,
+        "COGNOME": "JOHANNESSEN",
+        "NOME": "Tobias Halland",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 504,
+        "COGNOME": "JOHANSEN",
+        "NOME": "Julius",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 505,
+        "COGNOME": "JOHNSON",
+        "NOME": "Cooper",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 506,
+        "COGNOME": "JOHNSTON",
+        "NOME": "Calum",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 507,
+        "COGNOME": "JONES",
+        "NOME": "Ollie",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 508,
+        "COGNOME": "JONES",
+        "NOME": "Taj",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 509,
+        "COGNOME": "JORGENSON",
+        "NOME": "Matteo",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 510,
+        "COGNOME": "JOUSSEAUME",
+        "NOME": "Alan",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 511,
+        "COGNOME": "JOYCE",
+        "NOME": "Colin",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 512,
+        "COGNOME": "JUARISTI",
+        "NOME": "Txomin",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 513,
+        "COGNOME": "JULES",
+        "NOME": "Justin",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 514,
+        "COGNOME": "JULLIEN",
+        "NOME": "Anthony",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 515,
+        "COGNOME": "JUNGELS",
+        "NOME": "Bob",
+        "SQUADRA": "BORA",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 516,
+        "COGNOME": "JUUL-JENSEN",
+        "NOME": "Christopher",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 517,
+        "COGNOME": "KAMNA",
+        "NOME": "Lennard",
+        "SQUADRA": "BORA",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 518,
+        "COGNOME": "KAMP",
+        "NOME": "Alexander",
+        "SQUADRA": "TUDOR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 519,
+        "COGNOME": "KANTER",
+        "NOME": "Max",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 520,
+        "COGNOME": "KELDERMAN",
+        "NOME": "Wilco",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 19
+        },
+        {
+        "NUMERO": 1145,
+        "COGNOME": "KELEMEN",
+        "NOME": "Petr",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 521,
+        "COGNOME": "KENCH",
+        "NOME": "Josh",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 522,
+        "COGNOME": "KEPPLINGER",
+        "NOME": "Rainer",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 523,
+        "COGNOME": "KEUKELEIRE",
+        "NOME": "Jense",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 524,
+        "COGNOME": "KIRSCH",
+        "NOME": "Alex",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1146,
+        "COGNOME": "KLUCKERS",
+        "NOME": "Arthur",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 525,
+        "COGNOME": "KLUGE",
+        "NOME": "Roger",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 526,
+        "COGNOME": "KNOX",
+        "NOME": "James",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 527,
+        "COGNOME": "KOCH",
+        "NOME": "Jonas",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 528,
+        "COGNOME": "KOCHETKOV",
+        "NOME": "Pavel",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 1147,
+        "COGNOME": "KOLZE CHANGIZI",
+        "NOME": "Sebastian",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 529,
+        "COGNOME": "KONOVALOVAS",
+        "NOME": "Ignatas",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 530,
+        "COGNOME": "KONRAD",
+        "NOME": "Patrick",
+        "SQUADRA": "BORA",
+        "VALORE": 13
+        },
+        {
+        "NUMERO": 531,
+        "COGNOME": "KONYSHEV",
+        "NOME": "Alexander",
+        "SQUADRA": "CORRETEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 532,
+        "COGNOME": "KOOIJ",
+        "NOME": "Olav",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 533,
+        "COGNOME": "KOPECKY",
+        "NOME": "Matias",
+        "SQUADRA": "TEAM NOVONORDISK",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 534,
+        "COGNOME": "KORETZKY",
+        "NOME": "Victor",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 535,
+        "COGNOME": "KRAGH ANSDERSEN",
+        "NOME": "Soren",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 536,
+        "COGNOME": "KREDER",
+        "NOME": "Wesley",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 537,
+        "COGNOME": "KRIEGER",
+        "NOME": "Alexander",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 538,
+        "COGNOME": "KRISTOFF",
+        "NOME": "Alexander",
+        "SQUADRA": "UNO-X",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 539,
+        "COGNOME": "KRON",
+        "NOME": "Andreas",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 540,
+        "COGNOME": "KRUIJSWIJK",
+        "NOME": "Steven",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 541,
+        "COGNOME": "KRUL",
+        "NOME": "Wessel",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 542,
+        "COGNOME": "KUDUS",
+        "NOME": "Merhawi",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 543,
+        "COGNOME": "KUKRLE",
+        "NOME": "Michael",
+        "SQUADRA": "TEAM FERBERMAYR"
+        },
+        {
+        "NUMERO": 544,
+        "COGNOME": "KULSET",
+        "NOME": "Magnus",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 545,
+        "COGNOME": "KULSET",
+        "NOME": "Sindre",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 546,
+        "COGNOME": "KUNG",
+        "NOME": "Stefan",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 33
+        },
+        {
+        "NUMERO": 547,
+        "COGNOME": "KUSS",
+        "NOME": "Sepp",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 548,
+        "COGNOME": "KUSZTOR",
+        "NOME": "Peter",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 549,
+        "COGNOME": "KUZMIN",
+        "NOME": "Anton",
+        "SQUADRA": "ALMATY CYCLING"
+        },
+        {
+        "NUMERO": 550,
+        "COGNOME": "KUZNETSOV",
+        "NOME": "Viacheslav",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 551,
+        "COGNOME": "KWIATKOWKI",
+        "NOME": "Michal",
+        "SQUADRA": "INEOS",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 552,
+        "COGNOME": "LAAS",
+        "NOME": "Martin",
+        "SQUADRA": "ASTANA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 553,
+        "COGNOME": "LADAGNOUS",
+        "NOME": "Matthieu",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 554,
+        "COGNOME": "LAENGEN",
+        "NOME": "Vegard Stake",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 555,
+        "COGNOME": "LAFAY",
+        "NOME": "Victor",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 556,
+        "COGNOME": "LAGREE",
+        "NOME": "Adrien",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 557,
+        "COGNOME": "LAMMERTINK",
+        "NOME": "Maurits",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 558,
+        "COGNOME": "LAMPAERT",
+        "NOME": "Yves",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 559,
+        "COGNOME": "LANDA",
+        "NOME": "Mikel",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 30
+        },
+        {
+        "NUMERO": 560,
+        "COGNOME": "LANGELLOTTI",
+        "NOME": "Victor",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 561,
+        "COGNOME": "LAPEIRA",
+        "NOME": "Paul",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 562,
+        "COGNOME": "LAPORTE",
+        "NOME": "Christophe",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 31
+        },
+        {
+        "NUMERO": 563,
+        "COGNOME": "LARSEN",
+        "NOME": "Niklas",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 564,
+        "COGNOME": "LASTRA",
+        "NOME": "Jonathan",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 565,
+        "COGNOME": "LATOUR",
+        "NOME": "Pierre",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 566,
+        "COGNOME": "LAUK",
+        "NOME": "Karl Patrick",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 567,
+        "COGNOME": "LAURANCE",
+        "NOME": "Alex",
+        "SQUADRA": "ALPECIN DEVELOPMENT",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 568,
+        "COGNOME": "LAWLESS",
+        "NOME": "Chriss",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 569,
+        "COGNOME": "LAZKANO",
+        "NOME": "Oier",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 570,
+        "COGNOME": "LE BERRE",
+        "NOME": "Mathis",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 571,
+        "COGNOME": "LE GAC",
+        "NOME": "Olivier",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 572,
+        "COGNOME": "LE TURNIER",
+        "NOME": "Mathias",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 573,
+        "COGNOME": "LEBRETON",
+        "NOME": "Jacques",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 574,
+        "COGNOME": "LECROQ",
+        "NOME": "Jeremy",
+        "SQUADRA": "?",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 575,
+        "COGNOME": "LEDANOIS",
+        "NOME": "Kevin",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 576,
+        "COGNOME": "LEEMREIZE",
+        "NOME": "Gijs",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 577,
+        "COGNOME": "LEITAO",
+        "NOME": "Iuri",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 578,
+        "COGNOME": "LEKNESSUND",
+        "NOME": "Andreas",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 579,
+        "COGNOME": "LEMMEN",
+        "NOME": "Bart",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 580,
+        "COGNOME": "LEMOINE",
+        "NOME": "Cyril",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 581,
+        "COGNOME": "LEONARD",
+        "NOME": "Michael",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 582,
+        "COGNOME": "LEVY",
+        "NOME": "WIlliam Blume",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 583,
+        "COGNOME": "LEYSEN",
+        "NOME": "Senne",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 584,
+        "COGNOME": "LIENHARD",
+        "NOME": "Fabian",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 585,
+        "COGNOME": "LIEPINS",
+        "NOME": "Emils",
+        "SQUADRA": "TREK",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 586,
+        "COGNOME": "LIETAER",
+        "NOME": "Eliot",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 587,
+        "COGNOME": "LINDEMAN",
+        "NOME": "Bert-Jan",
+        "SQUADRA": "VOLKER WESSELS"
+        },
+        {
+        "NUMERO": 588,
+        "COGNOME": "LIPOWITZ",
+        "NOME": "Florian",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 589,
+        "COGNOME": "LIVYNS",
+        "NOME": "Arjen",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 590,
+        "COGNOME": "LOBATO",
+        "NOME": "Juan Josè",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 591,
+        "COGNOME": "LONARDI",
+        "NOME": "Giovanni",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 592,
+        "COGNOME": "LOPEZ",
+        "NOME": "Harold Martin",
+        "SQUADRA": "ASTANA DEVELOPMENT",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 593,
+        "COGNOME": "LOPEZ",
+        "NOME": "Jordi",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 594,
+        "COGNOME": "LOPEZ",
+        "NOME": "Joseba",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 595,
+        "COGNOME": "LOPEZ",
+        "NOME": "Juan Pedro",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 596,
+        "COGNOME": "LOPEZ",
+        "NOME": "Miguel Angel",
+        "SQUADRA": "?",
+        "VALORE": 24
+        },
+        {
+        "NUMERO": 597,
+        "COGNOME": "LOPEZ DE ABETXUKO",
+        "NOME": "Andoni",
+        "SQUADRA": "EUSKALTEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 598,
+        "COGNOME": "LOPEZ-COZAR",
+        "NOME": "Juan Antonio",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 599,
+        "COGNOME": "LOUVEL",
+        "NOME": "Matis",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 600,
+        "COGNOME": "LOZANO",
+        "NOME": "David",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 601,
+        "COGNOME": "LUCCA",
+        "NOME": "Riccardo",
+        "SQUADRA": "BARDIANI",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 602,
+        "COGNOME": "LUDVIGSSON",
+        "NOME": "Tobias",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 603,
+        "COGNOME": "LUHRS",
+        "NOME": "Luis-Joe",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 604,
+        "COGNOME": "LUNDER",
+        "NOME": "Eirik ",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 605,
+        "COGNOME": "LUTSENKO",
+        "NOME": "Alexey",
+        "SQUADRA": "ASTANA",
+        "VALORE": 20
+        },
+        {
+        "NUMERO": 606,
+        "COGNOME": "MAAS",
+        "NOME": "Jan",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 607,
+        "COGNOME": "MACIEJUK",
+        "NOME": "Filip",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 608,
+        "COGNOME": "MADAN",
+        "NOME": "Ahmed",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 609,
+        "COGNOME": "MADER",
+        "NOME": "Gino",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 610,
+        "COGNOME": "MADOUAS",
+        "NOME": "Valentin",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 20
+        },
+        {
+        "NUMERO": 611,
+        "COGNOME": "MADRAZO",
+        "NOME": "Angel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 612,
+        "COGNOME": "MAESTRI",
+        "NOME": "Mirco",
+        "SQUADRA": "EOLO KOMETA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 613,
+        "COGNOME": "MAGLI",
+        "NOME": "Filippo",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 614,
+        "COGNOME": "MAJKA",
+        "NOME": "Rafal",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 615,
+        "COGNOME": "MALECKI",
+        "NOME": "Kamil",
+        "SQUADRA": "SANTIC-WIBATECH"
+        },
+        {
+        "NUMERO": 616,
+        "COGNOME": "MALUCELLI",
+        "NOME": "Matteo",
+        "SQUADRA": "BINGOAL",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 617,
+        "COGNOME": "MANNION",
+        "NOME": "Gavin",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 618,
+        "COGNOME": "MANZIN",
+        "NOME": "Lorenzo",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 619,
+        "COGNOME": "MARCELLUSI",
+        "NOME": "Martin",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 620,
+        "COGNOME": "MARCHIORI",
+        "NOME": "Leonardo",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 621,
+        "COGNOME": "MARECZKO",
+        "NOME": "Jakub",
+        "SQUADRA": "ALPECIN",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 622,
+        "COGNOME": "MARENGO",
+        "NOME": "Umberto",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 623,
+        "COGNOME": "MARIAULT",
+        "NOME": "Axel",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 624,
+        "COGNOME": "MARIS",
+        "NOME": "Elias",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 625,
+        "COGNOME": "MARIT",
+        "NOME": "Arne",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 626,
+        "COGNOME": "MARKL",
+        "NOME": "Niklas",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 627,
+        "COGNOME": "MARQUEZ",
+        "NOME": "Marti",
+        "SQUADRA": "KERN PHARMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 628,
+        "COGNOME": "MARTIN",
+        "NOME": "Alex",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 629,
+        "COGNOME": "MARTIN",
+        "NOME": "David",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 630,
+        "COGNOME": "MARTIN",
+        "NOME": "Gotzon",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 631,
+        "COGNOME": "MARTIN",
+        "NOME": "Guillaume",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 632,
+        "COGNOME": "MARTIN",
+        "NOME": "Sergio Roman",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 633,
+        "COGNOME": "MARTINELLI",
+        "NOME": "Alessio",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 634,
+        "COGNOME": "MARTINELLI",
+        "NOME": "Davide",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 635,
+        "COGNOME": "MARTINEZ",
+        "NOME": "Daniel Felipe",
+        "SQUADRA": "INEOS",
+        "VALORE": 30
+        },
+        {
+        "NUMERO": 636,
+        "COGNOME": "MARTINEZ",
+        "NOME": "Lenny",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 637,
+        "COGNOME": "MAS",
+        "NOME": "Enric",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 38
+        },
+        {
+        "NUMERO": 638,
+        "COGNOME": "MAS",
+        "NOME": "Lluis",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 639,
+        "COGNOME": "MASNADA",
+        "NOME": "Fausto",
+        "SQUADRA": "QUICK-STEP",
+        "ITA": "🇮🇹",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 640,
+        "COGNOME": "MASOTTO",
+        "NOME": "Giulio",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 641,
+        "COGNOME": "MATE'",
+        "NOME": "Luis Angel",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 642,
+        "COGNOME": "MATTHEWS",
+        "NOME": "Michael",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 35
+        },
+        {
+        "NUMERO": 643,
+        "COGNOME": "MAYRHOFER",
+        "NOME": "Marius",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 644,
+        "COGNOME": "MAZZUCCO",
+        "NOME": "Fabio",
+        "SQUADRA": "MG KVIS",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 645,
+        "COGNOME": "MCGILL",
+        "NOME": "Scott",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 646,
+        "COGNOME": "MCLAY",
+        "NOME": "Daniel",
+        "SQUADRA": "ARKEA",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 647,
+        "COGNOME": "MCNULTY",
+        "NOME": "Brandon",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 648,
+        "COGNOME": "MEENS",
+        "NOME": "Johan",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 649,
+        "COGNOME": "MEEUS",
+        "NOME": "Jordi",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 650,
+        "COGNOME": "MEINTJES",
+        "NOME": "Louis",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 19
+        },
+        {
+        "NUMERO": 651,
+        "COGNOME": "MEISEN",
+        "NOME": "Marcel",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 652,
+        "COGNOME": "MENDEZ",
+        "NOME": "Daniel Alejandro",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 653,
+        "COGNOME": "MENTEN",
+        "NOME": "Milan",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 654,
+        "COGNOME": "MERCHAN",
+        "NOME": "Didier",
+        "SQUADRA": "GW SHIMANO SIDERMEC",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 655,
+        "COGNOME": "MERLIER",
+        "NOME": "Tim",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 32
+        },
+        {
+        "NUMERO": 656,
+        "COGNOME": "MERTENS",
+        "NOME": "Julian",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 657,
+        "COGNOME": "MERTZ",
+        "NOME": "Remy",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 658,
+        "COGNOME": "MEURISSE",
+        "NOME": "Xandro",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 659,
+        "COGNOME": "MEZGEC",
+        "NOME": "Luka",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 660,
+        "COGNOME": "MICHOTTE",
+        "NOME": "Niels",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 661,
+        "COGNOME": "MIHKELSE",
+        "NOME": "Madis",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 662,
+        "COGNOME": "MIHOLJEVIC",
+        "NOME": "Fran",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 663,
+        "COGNOME": "MILAN",
+        "NOME": "Jonathan",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 664,
+        "COGNOME": "MILESI",
+        "NOME": "Lorenzo",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 665,
+        "COGNOME": "MIQUEL",
+        "NOME": "Pau",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 666,
+        "COGNOME": "MIRZA",
+        "NOME": "Yousif",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 667,
+        "COGNOME": "MODOLO",
+        "NOME": "Sasha",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 668,
+        "COGNOME": "MOHORIC",
+        "NOME": "Matej",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 27
+        },
+        {
+        "NUMERO": 669,
+        "COGNOME": "MOLANO",
+        "NOME": "Juan Sebastian",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 670,
+        "COGNOME": "MOLARD",
+        "NOME": "Rudy",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 671,
+        "COGNOME": "MOLENAAR",
+        "NOME": "Alex",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 672,
+        "COGNOME": "MOLLEMA",
+        "NOME": "Bauke",
+        "SQUADRA": "TREK",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 673,
+        "COGNOME": "MOLLY",
+        "NOME": "Kenny",
+        "SQUADRA": "GO SPORT-ROUBAIX"
+        },
+        {
+        "NUMERO": 674,
+        "COGNOME": "MONACO",
+        "NOME": "Alessandro",
+        "SQUADRA": "GIOTTI VICTORIA",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 675,
+        "COGNOME": "MONIQUET",
+        "NOME": "Sylvain",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 676,
+        "COGNOME": "MONK",
+        "NOME": "Cyrus",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 677,
+        "COGNOME": "MORA",
+        "NOME": "Sebastian",
+        "SQUADRA": "MANUELA FUNDACION"
+        },
+        {
+        "NUMERO": 679,
+        "COGNOME": "MORGADO",
+        "NOME": "Antonio",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 681,
+        "COGNOME": "MORIN",
+        "NOME": "Emmanuel",
+        "SQUADRA": "NANTES ATLANTIQUE"
+        },
+        {
+        "NUMERO": 682,
+        "COGNOME": "MORKOV",
+        "NOME": "Michael",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 683,
+        "COGNOME": "MOSCA",
+        "NOME": "Jacopo",
+        "SQUADRA": "TREK",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 684,
+        "COGNOME": "MOSCHETTI",
+        "NOME": "Matteo",
+        "SQUADRA": "Q36.5",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 685,
+        "COGNOME": "MOSCON",
+        "NOME": "Gianni",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 686,
+        "COGNOME": "MOZZATO",
+        "NOME": "Luca",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 687,
+        "COGNOME": "MUDGWAY",
+        "NOME": "Luke",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 688,
+        "COGNOME": "MUHLBERGER",
+        "NOME": "Gregor",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 689,
+        "COGNOME": "MULLEN",
+        "NOME": "Ryan",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 690,
+        "COGNOME": "MULLER",
+        "NOME": "Gabriel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 691,
+        "COGNOME": "MULUBRHAN",
+        "NOME": "Henok",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 692,
+        "COGNOME": "MUNDAY",
+        "NOME": "Samuel",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 693,
+        "COGNOME": "MUNOZ",
+        "NOME": "Cristian Camilo",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 694,
+        "COGNOME": "MUNOZ",
+        "NOME": "Daniel",
+        "SQUADRA": "GW SHIMANO"
+        },
+        {
+        "NUMERO": 695,
+        "COGNOME": "MURGANO",
+        "NOME": "Marco",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 696,
+        "COGNOME": "MURGUIALDAY",
+        "NOME": "Jokin",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 697,
+        "COGNOME": "MURPHY",
+        "NOME": "Kyle",
+        "SQUADRA": "L39ION"
+        },
+        {
+        "NUMERO": 698,
+        "COGNOME": "NABERMAN",
+        "NOME": "Tim",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 699,
+        "COGNOME": "NAESEN",
+        "NOME": "Lawrance",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 700,
+        "COGNOME": "NAESEN",
+        "NOME": "Oliver",
+        "SQUADRA": "AG2R",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 701,
+        "COGNOME": "NARVAEZ",
+        "NOME": "Jhonatan",
+        "SQUADRA": "INEOS",
+        "VALORE": 10
+        },
+        {
+        "NUMERO": 702,
+        "COGNOME": "NATAROV",
+        "NOME": "Yuriy",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 703,
+        "COGNOME": "NAVARRO",
+        "NOME": "Daniel",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 704,
+        "COGNOME": "NEILANDS",
+        "NOME": "Krists",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 705,
+        "COGNOME": "NEKRASOV",
+        "NOME": "Denis",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 706,
+        "COGNOME": "NIBALI",
+        "NOME": "Antonio",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 707,
+        "COGNOME": "NICOLAU",
+        "NOME": "Joel",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 708,
+        "COGNOME": "NIERI",
+        "NOME": "Alessio",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 709,
+        "COGNOME": "NIEUWENHUIS",
+        "NOME": "Joris",
+        "SQUADRA": "BALOISE TREK LIONS"
+        },
+        {
+        "NUMERO": 710,
+        "COGNOME": "NIZZOLO",
+        "NOME": "Giacomo",
+        "SQUADRA": "ISRAEL",
+        "ITA": "🇮🇹",
+        "VALORE": 16
+        },
+        {
+        "NUMERO": 711,
+        "COGNOME": "NOPPE",
+        "NOME": "Christophe",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 712,
+        "COGNOME": "NORSGAARD",
+        "NOME": "Mathias",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 713,
+        "COGNOME": "NOVAK",
+        "NOME": "Domen",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 714,
+        "COGNOME": "NOVIKOV",
+        "NOME": "Savva",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 715,
+        "COGNOME": "NURLYKHASSYM",
+        "NOME": "Nurbergen",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 716,
+        "COGNOME": "NYCH",
+        "NOME": "Artem",
+        "SQUADRA": "GLASSDRIVE Q8"
+        },
+        {
+        "NUMERO": 717,
+        "COGNOME": "NYS",
+        "NOME": "Thibaut",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 718,
+        "COGNOME": "O'BRIEN",
+        "NOME": "Kelland",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 719,
+        "COGNOME": "O'CONNOR",
+        "NOME": "Ben",
+        "SQUADRA": "AG2R",
+        "VALORE": 25
+        },
+        {
+        "NUMERO": 720,
+        "COGNOME": "O'DONNELL",
+        "NOME": "Bailey",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 721,
+        "COGNOME": "OKA",
+        "NOME": "Atsushi",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 722,
+        "COGNOME": "OKAMIKA",
+        "NOME": "Ander",
+        "SQUADRA": "BURGOS",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 723,
+        "COGNOME": "OLDANI",
+        "NOME": "Stefano",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 724,
+        "COGNOME": "OLIVEIRA",
+        "NOME": "Ivo",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 725,
+        "COGNOME": "OLIVEIRA",
+        "NOME": "Nelson",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 726,
+        "COGNOME": "OLIVEIRA",
+        "NOME": "Rui",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 727,
+        "COGNOME": "OLIVERO",
+        "NOME": "Simone",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 728,
+        "COGNOME": "ONLEY",
+        "NOME": "Oscar",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 729,
+        "COGNOME": "OOMEN",
+        "NOME": "Sam",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 730,
+        "COGNOME": "ORAM",
+        "NOME": "James",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 731,
+        "COGNOME": "ORRICO",
+        "NOME": "Davide",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 732,
+        "COGNOME": "ORTS",
+        "NOME": "Felipe",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1148,
+        "COGNOME": "OSBORNE",
+        "NOME": "Jason",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 733,
+        "COGNOME": "OSORIO",
+        "NOME": "Alejandro",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 734,
+        "COGNOME": "OSORIO",
+        "NOME": "Juan Felipe",
+        "SQUADRA": "ORGULLO PAISA"
+        },
+        {
+        "NUMERO": 735,
+        "COGNOME": "OSS",
+        "NOME": "Daniel",
+        "SQUADRA": "TOTAL ENERGIES",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 736,
+        "COGNOME": "OURSELIN",
+        "NOME": "Paul",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 737,
+        "COGNOME": "OWEN",
+        "NOME": "Logan",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 738,
+        "COGNOME": "OWSIAN",
+        "NOME": "Lukasz",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 739,
+        "COGNOME": "PAASSCHENS",
+        "NOME": "Mathijs",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 740,
+        "COGNOME": "PACHER",
+        "NOME": "Quentin",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 741,
+        "COGNOME": "PACIONI",
+        "NOME": "Luca",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 742,
+        "COGNOME": "PADUN",
+        "NOME": "Mark",
+        "SQUADRA": "EF",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 743,
+        "COGNOME": "PAGE",
+        "NOME": "Hugo",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 744,
+        "COGNOME": "PAJUR",
+        "NOME": "Markus",
+        "SQUADRA": "TEAM TARTU 2024",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 745,
+        "COGNOME": "PALENI",
+        "NOME": "Enzo",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 746,
+        "COGNOME": "PALETTI",
+        "NOME": "Luca",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 747,
+        "COGNOME": "PALZER",
+        "NOME": "Anton",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 748,
+        "COGNOME": "PAQUOT",
+        "NOME": "Tom",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 749,
+        "COGNOME": "PARET-PEINTRE",
+        "NOME": "Aurelien",
+        "SQUADRA": "AG2R",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 750,
+        "COGNOME": "PARET-PEINTRE",
+        "NOME": "Valentin",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 751,
+        "COGNOME": "PARISELLA",
+        "NOME": "Raphael",
+        "SQUADRA": "?",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 752,
+        "COGNOME": "PARISINI",
+        "NOME": "Nicolò",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 753,
+        "COGNOME": "PARRA",
+        "NOME": "Jose Felix",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 754,
+        "COGNOME": "PASQUALON",
+        "NOME": "Andrea",
+        "SQUADRA": "BAHRAIN",
+        "ITA": "🇮🇹",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 755,
+        "COGNOME": "PEAK",
+        "NOME": "Barnabas",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 756,
+        "COGNOME": "PEARSON",
+        "NOME": "Daniel",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 757,
+        "COGNOME": "PEDERSEN",
+        "NOME": "Casper",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 758,
+        "COGNOME": "PEDERSEN",
+        "NOME": "Mads",
+        "SQUADRA": "TREK",
+        "VALORE": 40
+        },
+        {
+        "NUMERO": 759,
+        "COGNOME": "PEDRERO",
+        "NOME": "Antonio",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 760,
+        "COGNOME": "PELEGRI",
+        "NOME": "Oscar",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 761,
+        "COGNOME": "PELIKAN",
+        "NOME": "Jonas",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 762,
+        "COGNOME": "PELLAUD",
+        "NOME": "Simon",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 763,
+        "COGNOME": "PELLIZARI",
+        "NOME": "Giulio",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 764,
+        "COGNOME": "PENA",
+        "NOME": "Jesus David",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 765,
+        "COGNOME": "PENALVER",
+        "NOME": "Manolo",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 766,
+        "COGNOME": "PENHOET",
+        "NOME": "Paul",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 767,
+        "COGNOME": "PEREZ",
+        "NOME": "Anthony",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 768,
+        "COGNOME": "PERICHON",
+        "NOME": "Pierre-Luc",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 769,
+        "COGNOME": "PERNSTEINER",
+        "NOME": "Hermann",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 770,
+        "COGNOME": "PERON",
+        "NOME": "Andrea",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 771,
+        "COGNOME": "PERRY",
+        "NOME": "Benjamin",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 772,
+        "COGNOME": "PETELIN",
+        "NOME": "Jan",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 773,
+        "COGNOME": "PETERS",
+        "NOME": "Nans",
+        "SQUADRA": "AG2R",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 774,
+        "COGNOME": "PETILLI",
+        "NOME": "Simone",
+        "SQUADRA": "INTERMARCHE",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 775,
+        "COGNOME": "PETIT",
+        "NOME": "Adrien",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 776,
+        "COGNOME": "PETRUCCI",
+        "NOME": "Mattias",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 777,
+        "COGNOME": "PEYSKENS",
+        "NOME": "Dimitri",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 778,
+        "COGNOME": "PHILIPSEN",
+        "NOME": "Jasper",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 38
+        },
+        {
+        "NUMERO": 779,
+        "COGNOME": "PHIPPEN",
+        "NOME": "Logan",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 780,
+        "COGNOME": "PICCOLI",
+        "NOME": "James",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 781,
+        "COGNOME": "PICCOLO",
+        "NOME": "Andrea",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 782,
+        "COGNOME": "PICHON",
+        "NOME": "Laurent",
+        "SQUADRA": "ARKEA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 783,
+        "COGNOME": "PIDCOCK",
+        "NOME": "Thomas",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 26
+        },
+        {
+        "NUMERO": 784,
+        "COGNOME": "PIETROBON",
+        "NOME": "Andrea",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 785,
+        "COGNOME": "PIGANZOLI",
+        "NOME": "Davide",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 786,
+        "COGNOME": "PINARELLO",
+        "NOME": "Alessandro",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 787,
+        "COGNOME": "PINOT",
+        "NOME": "Thibaut",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 788,
+        "COGNOME": "PIRA",
+        "NOME": "Yesid Albeiro",
+        "SQUADRA": "CAJA RURAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 789,
+        "COGNOME": "PITHIE",
+        "NOME": "Laurence",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 790,
+        "COGNOME": "PLACE",
+        "NOME": "Maxence",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 791,
+        "COGNOME": "PLANCKAERT",
+        "NOME": "Baptiste",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 792,
+        "COGNOME": "PLANCKAERT",
+        "NOME": "Edward",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 793,
+        "COGNOME": "PLANET",
+        "NOME": "Charles",
+        "SQUADRA": "TEAM NOVONORDISK"
+        },
+        {
+        "NUMERO": 794,
+        "COGNOME": "PLAPP",
+        "NOME": "Luke",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 795,
+        "COGNOME": "PLOWRIGHT",
+        "NOME": "Jensen",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1149,
+        "COGNOME": "PLUIMERS",
+        "NOME": "Rick",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 796,
+        "COGNOME": "POELS",
+        "NOME": "Wout",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 797,
+        "COGNOME": "POGACAR",
+        "NOME": "Tadej",
+        "SQUADRA": "UAE EMIRATES",
+        "U25": "U",
+        "VALORE": 69
+        },
+        {
+        "NUMERO": 798,
+        "COGNOME": "POLANC",
+        "NOME": "Jan",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 799,
+        "COGNOME": "POLI",
+        "NOME": "Umberto",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 800,
+        "COGNOME": "POLITT",
+        "NOME": "Nils",
+        "SQUADRA": "BORA",
+        "VALORE": 10
+        },
+        {
+        "NUMERO": 801,
+        "COGNOME": "PONOMAR",
+        "NOME": "Andrii",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 802,
+        "COGNOME": "POOLE",
+        "NOME": "Max",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 803,
+        "COGNOME": "PORTER",
+        "NOME": "Rudy",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 804,
+        "COGNOME": "POSTELBERGER",
+        "NOME": "Lukasz",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 805,
+        "COGNOME": "POWLESS",
+        "NOME": "Nelson",
+        "SQUADRA": "EF",
+        "VALORE": 22
+        },
+        {
+        "NUMERO": 806,
+        "COGNOME": "POZZOVIVO",
+        "NOME": "Domenico",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹",
+        "VALORE": "?"
+        },
+        {
+        "NUMERO": 807,
+        "COGNOME": "PRADES",
+        "NOME": "Eduard",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 808,
+        "COGNOME": "PRICE-PETERSEN",
+        "NOME": "Johan",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 809,
+        "COGNOME": "PRODHOMME",
+        "NOME": "Nicolas",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 810,
+        "COGNOME": "PRONSKIY",
+        "NOME": "Vadim",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 811,
+        "COGNOME": "PUCCIO",
+        "NOME": "Salvatore",
+        "SQUADRA": "INEOS",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 812,
+        "COGNOME": "PUPPIO",
+        "NOME": "Antonio",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 813,
+        "COGNOME": "QUARTUCCI",
+        "NOME": "Lorenzo",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 814,
+        "COGNOME": "QUATERMAN",
+        "NOME": "Charlie",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 815,
+        "COGNOME": "QUICK",
+        "NOME": "Blake",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 816,
+        "COGNOME": "QUINN",
+        "NOME": "Sean",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 817,
+        "COGNOME": "QUINTANA",
+        "NOME": "Dayer",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 818,
+        "COGNOME": "QUINTANA",
+        "NOME": "Nairo",
+        "SQUADRA": "?",
+        "VALORE": "?"
+        },
+        {
+        "NUMERO": 819,
+        "COGNOME": "RACCANI",
+        "NOME": "Simone",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 820,
+        "COGNOME": "RAFFERTY",
+        "NOME": "Darren",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 821,
+        "COGNOME": "RAIM",
+        "NOME": "Mihkel",
+        "SQUADRA": "ATT INVESTMENTS"
+        },
+        {
+        "NUMERO": 822,
+        "COGNOME": "RAJOVIC",
+        "NOME": "Dusan",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 823,
+        "COGNOME": "RANGEL COSTA",
+        "NOME": "Vinicius",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 824,
+        "COGNOME": "RASTELLI",
+        "NOME": "Luca",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 825,
+        "COGNOME": "RAUGEL",
+        "NOME": "Antoine",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 826,
+        "COGNOME": "RAVANELLI",
+        "NOME": "Simone",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 827,
+        "COGNOME": "RAVASI",
+        "NOME": "Edward",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 828,
+        "COGNOME": "REICHENBACH",
+        "NOME": "Sebastien",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 829,
+        "COGNOME": "REINDERS",
+        "NOME": "Elmer",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 830,
+        "COGNOME": "RENARD",
+        "NOME": "Alexis",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 831,
+        "COGNOME": "REPA",
+        "NOME": "Vojtech",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 832,
+        "COGNOME": "RESELL",
+        "NOME": "Erik Nordseater",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 833,
+        "COGNOME": "RESTREPO",
+        "NOME": "Jhonatan",
+        "SQUADRA": "GW SHIMANO SIDERMEC"
+        },
+        {
+        "NUMERO": 834,
+        "COGNOME": "RETAILLEAU",
+        "NOME": "Valentin",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 835,
+        "COGNOME": "RETEGI",
+        "NOME": "Mikel",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 836,
+        "COGNOME": "REX",
+        "NOME": "Laurenz",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 837,
+        "COGNOME": "REYNDERS",
+        "NOME": "Jens",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 838,
+        "COGNOME": "RIABUSHENKO",
+        "NOME": "Alexandr",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 839,
+        "COGNOME": "RICCITELLO",
+        "NOME": "Matthew",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 840,
+        "COGNOME": "RICHARDSON",
+        "NOME": "Alexander",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 841,
+        "COGNOME": "RICHEZE",
+        "NOME": "Maximiliano",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 842,
+        "COGNOME": "RICKAERT",
+        "NOME": "Jonas",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 843,
+        "COGNOME": "RIDOLFO",
+        "NOME": "Filippo",
+        "SQUADRA": "TEAM NOVONORDISK",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 844,
+        "COGNOME": "RIES",
+        "NOME": "Michel",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 845,
+        "COGNOME": "RIESEBEEK",
+        "NOME": "Oscar",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 846,
+        "COGNOME": "RIKUNOV",
+        "NOME": "Petr",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 847,
+        "COGNOME": "RIOU",
+        "NOME": "Alan",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 848,
+        "COGNOME": "RIVERA",
+        "NOME": "Brandon Smith",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 849,
+        "COGNOME": "RIVERA",
+        "NOME": "Kevin",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 850,
+        "COGNOME": "RIVI",
+        "NOME": "Samuele",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 851,
+        "COGNOME": "ROBEET",
+        "NOME": "Ludovic",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 852,
+        "COGNOME": "ROCCHETTA",
+        "NOME": "Cristian",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 853,
+        "COGNOME": "ROCHAS",
+        "NOME": "Remy",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 854,
+        "COGNOME": "RODENBERG",
+        "NOME": "Frederick",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 855,
+        "COGNOME": "RODRIGUEZ",
+        "NOME": "Carlos",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 24
+        },
+        {
+        "NUMERO": 856,
+        "COGNOME": "RODRIGUEZ",
+        "NOME": "Cristian",
+        "SQUADRA": "ARKEA",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 857,
+        "COGNOME": "RODRIGUEZ",
+        "NOME": "Oscar",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 858,
+        "COGNOME": "ROGLIC",
+        "NOME": "Primoz",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 52
+        },
+        {
+        "NUMERO": 859,
+        "COGNOME": "ROJAS",
+        "NOME": "Brandon",
+        "SQUADRA": "GW SHIMANO SIDERMEC",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 860,
+        "COGNOME": "ROJAS",
+        "NOME": "Jose Joaquin",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 862,
+        "COGNOME": "ROMEO",
+        "NOME": "Ivan",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 863,
+        "COGNOME": "ROMO",
+        "NOME": "Javier",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 864,
+        "COGNOME": "ROOSEN",
+        "NOME": "Timo",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 865,
+        "COGNOME": "ROPERO",
+        "NOME": "Alejandro",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 866,
+        "COGNOME": "ROSSKOPF",
+        "NOME": "Joey",
+        "SQUADRA": "Q36.5",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 867,
+        "COGNOME": "ROTA",
+        "NOME": "Lorenzo",
+        "SQUADRA": "INTERMARCHE",
+        "ITA": "🇮🇹",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 868,
+        "COGNOME": "ROVNY",
+        "NOME": "Ivan",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 869,
+        "COGNOME": "ROWE",
+        "NOME": "Luke",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 870,
+        "COGNOME": "RUBIO",
+        "NOME": "Diego",
+        "SQUADRA": "BURGOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 871,
+        "COGNOME": "RUBIO",
+        "NOME": "Einer Augusto",
+        "SQUADRA": "MOVISTAR",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 872,
+        "COGNOME": "RUDYK",
+        "NOME": "Mateusz",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 873,
+        "COGNOME": "RUIZ",
+        "NOME": "Ibon",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 874,
+        "COGNOME": "RUMAC",
+        "NOME": "Josip",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 875,
+        "COGNOME": "RUSSO",
+        "NOME": "Clement",
+        "SQUADRA": "ARKEA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 876,
+        "COGNOME": "RUTSCH",
+        "NOME": "Jonas",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 877,
+        "COGNOME": "SAEZ",
+        "NOME": "Hector",
+        "SQUADRA": "GLASSDRIVE Q8"
+        },
+        {
+        "NUMERO": 878,
+        "COGNOME": "SAGAN",
+        "NOME": "Peter",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 879,
+        "COGNOME": "SAGIV",
+        "NOME": "Guy",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 880,
+        "COGNOME": "SAJNOK",
+        "NOME": "Szymon",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 881,
+        "COGNOME": "SALBY",
+        "NOME": "Alexander",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 882,
+        "COGNOME": "SAMITIER",
+        "NOME": "Sergio",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 883,
+        "COGNOME": "SAMUDIO",
+        "NOME": "Carlos",
+        "SQUADRA": "JAVA KIWI ATLANTICO"
+        },
+        {
+        "NUMERO": 884,
+        "COGNOME": "SANCHEZ",
+        "NOME": "Eugenio",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 885,
+        "COGNOME": "SANCHEZ",
+        "NOME": "Luis Leon",
+        "SQUADRA": "ASTANA",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 886,
+        "COGNOME": "SANCHEZ",
+        "NOME": "Pelayo",
+        "SQUADRA": "BURGOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 887,
+        "COGNOME": "SANDER LARSEN",
+        "NOME": "Hansen",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 888,
+        "COGNOME": "SANTAROMITA",
+        "NOME": "Alessandro",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 889,
+        "COGNOME": "SARREAU",
+        "NOME": "Marc",
+        "SQUADRA": "AG2R",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 890,
+        "COGNOME": "SAVINI",
+        "NOME": "Daniel",
+        "SQUADRA": "MGK VIS",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 891,
+        "COGNOME": "SBARAGLI",
+        "NOME": "Kristian",
+        "SQUADRA": "ALPECIN",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 892,
+        "COGNOME": "SCALCO",
+        "NOME": "Matteo",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 893,
+        "COGNOME": "SCARONI",
+        "NOME": "Christian",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 894,
+        "COGNOME": "SCHACHMANN",
+        "NOME": "Maximilian",
+        "SQUADRA": "BORA",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 895,
+        "COGNOME": "SCHAR",
+        "NOME": "Michael",
+        "SQUADRA": "AG2R",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 896,
+        "COGNOME": "SCHELLING",
+        "NOME": "Ide",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 897,
+        "COGNOME": "SCHLEGEL",
+        "NOME": "Michal",
+        "SQUADRA": "CAJA RURAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 898,
+        "COGNOME": "SCHMID",
+        "NOME": "Mauro",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 899,
+        "COGNOME": "SCHNEITER",
+        "NOME": "Joab",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 900,
+        "COGNOME": "SCHONBERGER",
+        "NOME": "Sebastian",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 901,
+        "COGNOME": "SCHULTZ",
+        "NOME": "Nick",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 902,
+        "COGNOME": "SCHWARZMANN",
+        "NOME": "Michael",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 903,
+        "COGNOME": "SCOTSON",
+        "NOME": "Callum",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 904,
+        "COGNOME": "SCOTSON",
+        "NOME": "Miles",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 905,
+        "COGNOME": "SCOTT",
+        "NOME": "Cameron",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 906,
+        "COGNOME": "SCOTT",
+        "NOME": "Jacob",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 907,
+        "COGNOME": "SCOTT",
+        "NOME": "Jared",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 908,
+        "COGNOME": "SCULLY",
+        "NOME": "Tom",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 909,
+        "COGNOME": "SEIGLE",
+        "NOME": "Romain",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 910,
+        "COGNOME": "SELIG",
+        "NOME": "Rudiger",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 911,
+        "COGNOME": "SENECHAL",
+        "NOME": "Florian",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 17
+        },
+        {
+        "NUMERO": 912,
+        "COGNOME": "SEPULVEDA",
+        "NOME": "Eduardo",
+        "SQUADRA": "LOTTO",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 913,
+        "COGNOME": "SERRANO",
+        "NOME": "Alberto",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 914,
+        "COGNOME": "SERRANO",
+        "NOME": "Gonzalo",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 915,
+        "COGNOME": "SERRANO",
+        "NOME": "Javier",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 916,
+        "COGNOME": "SERRY",
+        "NOME": "Pieter",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 917,
+        "COGNOME": "SEVILLA",
+        "NOME": "Diego Pablo",
+        "SQUADRA": "EOLO KOMETA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 918,
+        "COGNOME": "SEXTON",
+        "NOME": "Tom",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 919,
+        "COGNOME": "SHALUNOV",
+        "NOME": "Evgeny",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 920,
+        "COGNOME": "SHAW",
+        "NOME": "James",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 921,
+        "COGNOME": "SHEFFIELD",
+        "NOME": "Magnus",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 922,
+        "COGNOME": "SHMIDT",
+        "NOME": "Artem",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 923,
+        "COGNOME": "SIMMONS",
+        "NOME": "Quinn",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 13
+        },
+        {
+        "NUMERO": 924,
+        "COGNOME": "SIMON",
+        "NOME": "Julien",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 925,
+        "COGNOME": "SINKELDAM",
+        "NOME": "Ramon",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 926,
+        "COGNOME": "SISKEVICIUS",
+        "NOME": "Evaldas",
+        "SQUADRA": "LILLE METROPOLE"
+        },
+        {
+        "NUMERO": 927,
+        "COGNOME": "SIVAKOV",
+        "NOME": "Pavel",
+        "SQUADRA": "INEOS",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 928,
+        "COGNOME": "SKAARSETH",
+        "NOME": "Anders",
+        "SQUADRA": "UNO-X",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 929,
+        "COGNOME": "SKAARSETH",
+        "NOME": "Iver",
+        "SQUADRA": "ABOVE +",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 930,
+        "COGNOME": "SKJELMOSE JENSEN",
+        "NOME": "Mattias",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 931,
+        "COGNOME": "SKUJINS",
+        "NOME": "Toms",
+        "SQUADRA": "TREK",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 932,
+        "COGNOME": "SLOCK",
+        "NOME": "Liam",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 933,
+        "COGNOME": "SMITH",
+        "NOME": "Dion",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 934,
+        "COGNOME": "SOBRERO",
+        "NOME": "Matteo",
+        "SQUADRA": "BIKE EXCHANGE",
+        "ITA": "🇮🇹",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 935,
+        "COGNOME": "SOLER",
+        "NOME": "Marc",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 936,
+        "COGNOME": "SOSA",
+        "NOME": "Ivan Ramiro",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 937,
+        "COGNOME": "SOTO",
+        "NOME": "Antonio Jesus",
+        "SQUADRA": "EUSKALTEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 938,
+        "COGNOME": "SOUPE",
+        "NOME": "Geoffrey",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 939,
+        "COGNOME": "STANNARD",
+        "NOME": "Robert",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 940,
+        "COGNOME": "STEELS",
+        "NOME": "Stijn",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 941,
+        "COGNOME": "STEIMLE",
+        "NOME": "Jannik",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 942,
+        "COGNOME": "STEINHAUSER",
+        "NOME": "Georg",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 943,
+        "COGNOME": "STEWART",
+        "NOME": "Campbell",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 944,
+        "COGNOME": "STEWART",
+        "NOME": "Jake",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 945,
+        "COGNOME": "STEWART",
+        "NOME": "Mark",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 946,
+        "COGNOME": "STOCKLI",
+        "NOME": "Jan",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 947,
+        "COGNOME": "STOJNIC",
+        "NOME": "Veljko",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 948,
+        "COGNOME": "STORER",
+        "NOME": "Michael",
+        "SQUADRA": "GROUPAMA FDJ",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 949,
+        "COGNOME": "STORK",
+        "NOME": "Florian",
+        "SQUADRA": "DSM",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 950,
+        "COGNOME": "STRAKHOV",
+        "NOME": "Dmitry",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 951,
+        "COGNOME": "STRONG",
+        "NOME": "Corbin",
+        "SQUADRA": "ISRAEL",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 952,
+        "COGNOME": "STUYVEN",
+        "NOME": "Jasper",
+        "SQUADRA": "TREK",
+        "VALORE": 20
+        },
+        {
+        "NUMERO": 953,
+        "COGNOME": "STYBAR",
+        "NOME": "Zdenek",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 954,
+        "COGNOME": "SUNDERLAND",
+        "NOME": "Dylan",
+        "SQUADRA": "GLOBAL 6 CYCLING"
+        },
+        {
+        "NUMERO": 955,
+        "COGNOME": "SUTER",
+        "NOME": "Joel",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 956,
+        "COGNOME": "SUTTERLIN",
+        "NOME": "Jasha",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 957,
+        "COGNOME": "SVESTAD-BARDSENG",
+        "NOME": "Emret",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 958,
+        "COGNOME": "SVRCEK",
+        "NOME": "Martin",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 959,
+        "COGNOME": "SWEENY",
+        "NOME": "Harry",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 960,
+        "COGNOME": "SWIFT",
+        "NOME": "Ben",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 961,
+        "COGNOME": "SWIFT",
+        "NOME": "Connor",
+        "SQUADRA": "INEOS",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 962,
+        "COGNOME": "SWIRBUL",
+        "NOME": "Keegan",
+        "SQUADRA": "VIGO-RIAS BAIXAS"
+        },
+        {
+        "NUMERO": 963,
+        "COGNOME": "SYRITSA",
+        "NOME": "Gleb",
+        "SQUADRA": "ASTANA",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 964,
+        "COGNOME": "TAARAMAE",
+        "NOME": "Rein",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 965,
+        "COGNOME": "TAGLIANI",
+        "NOME": "FIlippo",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 966,
+        "COGNOME": "TAMINIAUX",
+        "NOME": "Lionel",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 967,
+        "COGNOME": "TANFIELD",
+        "NOME": "Harry",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 968,
+        "COGNOME": "TARLING",
+        "NOME": "Joshua",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 969,
+        "COGNOME": "TAROZZI",
+        "NOME": "Manuele",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 970,
+        "COGNOME": "TAVARES",
+        "NOME": "Gonzalo",
+        "SQUADRA": "HAGENS BERMAN",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 971,
+        "COGNOME": "TEJADA",
+        "NOME": "Harold",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 972,
+        "COGNOME": "TERCERO",
+        "NOME": "Fermando",
+        "SQUADRA": "EOLO KOMETA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 973,
+        "COGNOME": "TESFATSION",
+        "NOME": "Nathael",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 974,
+        "COGNOME": "TESSON",
+        "NOME": "Jason",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 975,
+        "COGNOME": "TEUGELS",
+        "NOME": "Lennert",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 976,
+        "COGNOME": "TEUNISSEN",
+        "NOME": "Mike",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 977,
+        "COGNOME": "TEUNS",
+        "NOME": "Dylan",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 24
+        },
+        {
+        "NUMERO": 1150,
+        "COGNOME": "THALMANN",
+        "NOME": "Roland",
+        "SQUADRA": "TUDOR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 978,
+        "COGNOME": "THEUNS",
+        "NOME": "Edward",
+        "SQUADRA": "TREK",
+        "VALORE": 8
+        },
+        {
+        "NUMERO": 979,
+        "COGNOME": "THIJSSEN",
+        "NOME": "Gerben",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 980,
+        "COGNOME": "THOMAS",
+        "NOME": "Benjamin",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 981,
+        "COGNOME": "THOMAS",
+        "NOME": "Geraint",
+        "SQUADRA": "INEOS",
+        "VALORE": 32
+        },
+        {
+        "NUMERO": 982,
+        "COGNOME": "THOMPSON",
+        "NOME": "Reuben ",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 983,
+        "COGNOME": "THWAITES",
+        "NOME": "Scott",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 984,
+        "COGNOME": "TIBERI",
+        "NOME": "Antonio",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 985,
+        "COGNOME": "TILLER",
+        "NOME": "Rasmus",
+        "SQUADRA": "UNO-X",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 986,
+        "COGNOME": "TIVANI",
+        "NOME": "German Nicolas",
+        "SQUADRA": "CORRATEC",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 987,
+        "COGNOME": "TIZZA",
+        "NOME": "Marco",
+        "SQUADRA": "BINGOAL",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 988,
+        "COGNOME": "TOLHOEK",
+        "NOME": "Antwan",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 989,
+        "COGNOME": "TOLIO",
+        "NOME": "Alex",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 990,
+        "COGNOME": "TONELLI",
+        "NOME": "Alessandro",
+        "SQUADRA": "BARDIANI",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 991,
+        "COGNOME": "TORRES",
+        "NOME": "Albert",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 992,
+        "COGNOME": "TOUMIRE",
+        "NOME": "Hugo",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 993,
+        "COGNOME": "TOUZE",
+        "NOME": "Damien",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 994,
+        "COGNOME": "TOWNSEND",
+        "NOME": "Rory",
+        "SQUADRA": "BOLTON",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 995,
+        "COGNOME": "TRAEN",
+        "NOME": "Torstein",
+        "SQUADRA": "UNO-X",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 996,
+        "COGNOME": "TRATNIK",
+        "NOME": "Jan",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 11
+        },
+        {
+        "NUMERO": 997,
+        "COGNOME": "TRENTIN",
+        "NOME": "Matteo",
+        "SQUADRA": "UAE EMIRATES",
+        "ITA": "🇮🇹",
+        "VALORE": 15
+        },
+        {
+        "NUMERO": 998,
+        "COGNOME": "TROIA",
+        "NOME": "Oliviero",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 999,
+        "COGNOME": "TRONCHON",
+        "NOME": "Baptiste",
+        "SQUADRA": "AG2R",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1000,
+        "COGNOME": "TU",
+        "NOME": "Sergio",
+        "SQUADRA": "BAHRAIN",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1001,
+        "COGNOME": "TULETT",
+        "NOME": "Ben",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 1002,
+        "COGNOME": "TURGIS",
+        "NOME": "Anthony",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 16
+        },
+        {
+        "NUMERO": 1003,
+        "COGNOME": "TURNER",
+        "NOME": "Ben",
+        "SQUADRA": "INEOS",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 1004,
+        "COGNOME": "TUSVELD",
+        "NOME": "Martijn",
+        "SQUADRA": "DSM",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1005,
+        "COGNOME": "UIJTDEBROEKS",
+        "NOME": "Cian",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 1006,
+        "COGNOME": "ULISSI",
+        "NOME": "Diego",
+        "SQUADRA": "UAE EMIRATES",
+        "ITA": "🇮🇹",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 1007,
+        "COGNOME": "UMBA",
+        "NOME": "Santiago",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1008,
+        "COGNOME": "URAN",
+        "NOME": "Rigoberto",
+        "SQUADRA": "EF",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 1009,
+        "COGNOME": "URBANO",
+        "NOME": "Carmelo",
+        "SQUADRA": "GRUPO DEPORTIVO",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1010,
+        "COGNOME": "URIANSTAD",
+        "NOME": "Martin",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1011,
+        "COGNOME": "VACEK",
+        "NOME": "Karel",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1012,
+        "COGNOME": "VACEK",
+        "NOME": "Mathias",
+        "SQUADRA": "TREK",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1013,
+        "COGNOME": "VADER",
+        "NOME": "Milan",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1014,
+        "COGNOME": "VAHTRA",
+        "NOME": "Norman",
+        "SQUADRA": "LILLE METROPOLE"
+        },
+        {
+        "NUMERO": 1015,
+        "COGNOME": "VALGREN",
+        "NOME": "Michael",
+        "SQUADRA": "EF DEVELOPMENT",
+        "VALORE": "?"
+        },
+        {
+        "NUMERO": 1016,
+        "COGNOME": "VALTER",
+        "NOME": "Attila",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 1017,
+        "COGNOME": "VAN AERT",
+        "NOME": "Wout",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 70
+        },
+        {
+        "NUMERO": 1018,
+        "COGNOME": "VAN ASBROECK",
+        "NOME": "Tom",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1019,
+        "COGNOME": "VAN AVERMAET",
+        "NOME": "Greg",
+        "SQUADRA": "AG2R",
+        "VALORE": 12
+        },
+        {
+        "NUMERO": 1020,
+        "COGNOME": "VAN BAARLE",
+        "NOME": "Dylan",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 28
+        },
+        {
+        "NUMERO": 1021,
+        "COGNOME": "VAN BOVEN",
+        "NOME": "Luca",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1022,
+        "COGNOME": "VAN DEN BERG",
+        "NOME": "Julius",
+        "SQUADRA": "EF",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1023,
+        "COGNOME": "VAN DEN BERG",
+        "NOME": "Lars",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1024,
+        "COGNOME": "VAN DEN BERG",
+        "NOME": "Marijn",
+        "SQUADRA": "EF",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1025,
+        "COGNOME": "VAN DEN BOSSCHE",
+        "NOME": "Fabio",
+        "SQUADRA": "ALPECIN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1026,
+        "COGNOME": "VAN DER BEKEN",
+        "NOME": "Aaron",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1027,
+        "COGNOME": "VAN DER HOORN",
+        "NOME": "Taco",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 1028,
+        "COGNOME": "VAN DER POEL",
+        "NOME": "David",
+        "SQUADRA": "ALPECIN DEVELOPMENT",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1029,
+        "COGNOME": "VAN DER POEL",
+        "NOME": "Mathieu",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 50
+        },
+        {
+        "NUMERO": 1030,
+        "COGNOME": "VAN DER SANDE",
+        "NOME": "Tosh",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1031,
+        "COGNOME": "VAN DER TUUK",
+        "NOME": "Danny",
+        "SQUADRA": "KERN PHARMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1032,
+        "COGNOME": "VAN DIJKE",
+        "NOME": "Mick",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1033,
+        "COGNOME": "VAN DIJKE",
+        "NOME": "Tim",
+        "SQUADRA": "JUMBO VISMA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1034,
+        "COGNOME": "VAN EETVELT",
+        "NOME": "Lennert",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1035,
+        "COGNOME": "VAN EMDEN",
+        "NOME": "Jos",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1036,
+        "COGNOME": "VAN EMPEL",
+        "NOME": "Etienne",
+        "SQUADRA": "CORRATEC",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1037,
+        "COGNOME": "VAN GESTEL",
+        "NOME": "Dries",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1038,
+        "COGNOME": "VAN GILS",
+        "NOME": "Maxim",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1039,
+        "COGNOME": "VAN HEMELEN",
+        "NOME": "Vincent",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1040,
+        "COGNOME": "VAN HOECKE",
+        "NOME": "Gijs",
+        "SQUADRA": "HUMAN POWERED",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1041,
+        "COGNOME": "VAN HOOYDONCK",
+        "NOME": "Nathan",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1042,
+        "COGNOME": "VAN KEIRSBULCK",
+        "NOME": "Guillaume",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1043,
+        "COGNOME": "VAN KESSEL",
+        "NOME": "Cornè",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 1044,
+        "COGNOME": "VAN LERBERGHE",
+        "NOME": "Bert",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1045,
+        "COGNOME": "VAN MOER",
+        "NOME": "Brent",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1046,
+        "COGNOME": "VAN POPPEL",
+        "NOME": "Boy",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1047,
+        "COGNOME": "VAN POPPEL",
+        "NOME": "Danny",
+        "SQUADRA": "BORA",
+        "VALORE": 16
+        },
+        {
+        "NUMERO": 1048,
+        "COGNOME": "VAN POUCKE",
+        "NOME": "Aaron",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1049,
+        "COGNOME": "VAN ROOY",
+        "NOME": "Kenneth",
+        "SQUADRA": "BINGOAL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1050,
+        "COGNOME": "VAN TRICHT",
+        "NOME": "Stan",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1051,
+        "COGNOME": "VAN UDEN",
+        "NOME": "Casper",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1052,
+        "COGNOME": "VAN WILDER",
+        "NOME": "Ilan",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1054,
+        "COGNOME": "VANDENABEELE",
+        "NOME": "Enri",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1055,
+        "COGNOME": "VANDENBRANDE",
+        "NOME": "Noah",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1056,
+        "COGNOME": "VANDEPITTE",
+        "NOME": "Nathan",
+        "SQUADRA": "BINGOAL",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1057,
+        "COGNOME": "VANDEVELDE",
+        "NOME": "Yentl",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1058,
+        "COGNOME": "VANGHELUWE",
+        "NOME": "Warre",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1059,
+        "COGNOME": "VANHOOF",
+        "NOME": "Ward",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1060,
+        "COGNOME": "VANHOUCKE",
+        "NOME": "Harm",
+        "SQUADRA": "DSM",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1061,
+        "COGNOME": "VANMARCKE",
+        "NOME": "Sep",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 7
+        },
+        {
+        "NUMERO": 1062,
+        "COGNOME": "VANSEVENANT",
+        "NOME": "Mauri",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 1063,
+        "COGNOME": "VAUQUELIN",
+        "NOME": "Kevin",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1064,
+        "COGNOME": "VELASCO",
+        "NOME": "Simone",
+        "SQUADRA": "ASTANA",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1065,
+        "COGNOME": "VENCHIARUTTI",
+        "NOME": "Nicola",
+        "SQUADRA": "WORK SERVICE",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 1066,
+        "COGNOME": "VENDRAME",
+        "NOME": "Andrea",
+        "SQUADRA": "AG2R",
+        "ITA": "🇮🇹",
+        "VALORE": 10
+        },
+        {
+        "NUMERO": 1067,
+        "COGNOME": "VENNER",
+        "NOME": "Quentin",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1068,
+        "COGNOME": "VENTURINI",
+        "NOME": "Clement",
+        "SQUADRA": "AG2R",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1069,
+        "COGNOME": "VERCHER",
+        "NOME": "Matteo",
+        "SQUADRA": "TOTAL ENERGIES",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1070,
+        "COGNOME": "VERGAERDE",
+        "NOME": "Otto",
+        "SQUADRA": "TREK",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1151,
+        "COGNOME": "VERGALLITO",
+        "NOME": "Luca",
+        "SQUADRA": "ALPECIN DEVELOPMENT",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1071,
+        "COGNOME": "VERMAERKE",
+        "NOME": "Kevin",
+        "SQUADRA": "DSM",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1072,
+        "COGNOME": "VERMEERSH",
+        "NOME": "Florian",
+        "SQUADRA": "LOTTO",
+        "U25": "U",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1073,
+        "COGNOME": "VERMEERSH",
+        "NOME": "Gianni",
+        "SQUADRA": "ALPECIN",
+        "VALORE": 5
+        },
+        {
+        "NUMERO": 1074,
+        "COGNOME": "VERMOTE",
+        "NOME": "Julien",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 1075,
+        "COGNOME": "VERNON",
+        "NOME": "Ethan",
+        "SQUADRA": "QUICK-STEP",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1076,
+        "COGNOME": "VERONA",
+        "NOME": "Carlos",
+        "SQUADRA": "MOVISTAR",
+        "VALORE": 9
+        },
+        {
+        "NUMERO": 1077,
+        "COGNOME": "VERRE",
+        "NOME": "Alessandro",
+        "SQUADRA": "ARKEA",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1078,
+        "COGNOME": "VERSCHAEVE",
+        "NOME": "Viktor",
+        "SQUADRA": "LOTTO DEVELOPMENT",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1079,
+        "COGNOME": "VERVAEKE",
+        "NOME": "Louis",
+        "SQUADRA": "QUICK-STEP",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1080,
+        "COGNOME": "VERVLOESEM",
+        "NOME": "Xandres",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1081,
+        "COGNOME": "VERWILST",
+        "NOME": "Aaron",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1082,
+        "COGNOME": "VERWILT",
+        "NOME": "Mauro",
+        "SQUADRA": "SPORT VLAANDEREN",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1083,
+        "COGNOME": "VIEGAS",
+        "NOME": "Daniel",
+        "SQUADRA": "AVILUDO LOULETANO",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1084,
+        "COGNOME": "VIGO",
+        "NOME": "Marti",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1085,
+        "COGNOME": "VILLELLA",
+        "NOME": "Davide",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 1086,
+        "COGNOME": "VINE",
+        "NOME": "Jay",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 14
+        },
+        {
+        "NUMERO": 1087,
+        "COGNOME": "VINGEGAARD",
+        "NOME": "Jonas",
+        "SQUADRA": "JUMBO VISMA",
+        "VALORE": 56
+        },
+        {
+        "NUMERO": 1088,
+        "COGNOME": "VINK",
+        "NOME": "Michael",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1089,
+        "COGNOME": "VIVIANI",
+        "NOME": "Attilio",
+        "SQUADRA": "CORRATEC",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1090,
+        "COGNOME": "VIVIANI",
+        "NOME": "Elia",
+        "SQUADRA": "INEOS",
+        "ITA": "🇮🇹",
+        "VALORE": 18
+        },
+        {
+        "NUMERO": 1091,
+        "COGNOME": "VLASOV",
+        "NOME": "Aleksandr",
+        "SQUADRA": "BORA",
+        "VALORE": 40
+        },
+        {
+        "NUMERO": 1092,
+        "COGNOME": "VLIEGEN",
+        "NOME": "Loic",
+        "SQUADRA": "INTERMARCHE",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1093,
+        "COGNOME": "VOISARD",
+        "NOME": "Yannis",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1094,
+        "COGNOME": "VUILLERMOZ",
+        "NOME": "Alexis",
+        "SQUADRA": "TOTAL ENERGIES",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1095,
+        "COGNOME": "WACKERMANN",
+        "NOME": "Luca",
+        "SQUADRA": "TORPADO FACTORY",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 1096,
+        "COGNOME": "WAERENSKJOLD",
+        "NOME": "Soren",
+        "SQUADRA": "UNO-X",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1097,
+        "COGNOME": "WALLAYS",
+        "NOME": "Jelle",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1098,
+        "COGNOME": "WALLS",
+        "NOME": "Matthew",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1099,
+        "COGNOME": "WALSCHEID",
+        "NOME": "Max",
+        "SQUADRA": "COFIDIS",
+        "VALORE": 4
+        },
+        {
+        "NUMERO": 1100,
+        "COGNOME": "WANDAHL",
+        "NOME": "Frederik",
+        "SQUADRA": "BORA",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1101,
+        "COGNOME": "WARBASSE",
+        "NOME": "Larry",
+        "SQUADRA": "AG2R",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1102,
+        "COGNOME": "WARLOP",
+        "NOME": "Jordi",
+        "SQUADRA": "?",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1103,
+        "COGNOME": "WATSON",
+        "NOME": "Samuel",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1104,
+        "COGNOME": "WEEMAES",
+        "NOME": "Sasha",
+        "SQUADRA": "HUMAN POWERED",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1105,
+        "COGNOME": "WELLENS",
+        "NOME": "Tim",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 6
+        },
+        {
+        "NUMERO": 1106,
+        "COGNOME": "WELSFORD",
+        "NOME": "Sam",
+        "SQUADRA": "DSM",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1107,
+        "COGNOME": "WELTEN",
+        "NOME": "Bram",
+        "SQUADRA": "GROUPAMA FDJ",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1108,
+        "COGNOME": "WHELAN",
+        "NOME": "James",
+        "SQUADRA": "BRIDGELANE"
+        },
+        {
+        "NUMERO": 1109,
+        "COGNOME": "WILLEMS",
+        "NOME": "Thimo",
+        "SQUADRA": "MINERVA CYCLING"
+        },
+        {
+        "NUMERO": 1110,
+        "COGNOME": "WILLIAMS",
+        "NOME": "Stephen",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1111,
+        "COGNOME": "WIRTGEN",
+        "NOME": "Luc",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1112,
+        "COGNOME": "WIRTGEN",
+        "NOME": "Tom",
+        "SQUADRA": "GLOBAL 6"
+        },
+        {
+        "NUMERO": 1113,
+        "COGNOME": "WISNIOWSKI",
+        "NOME": "Lukasz",
+        "SQUADRA": "EF",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1114,
+        "COGNOME": "WOOD",
+        "NOME": "Harrison",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1115,
+        "COGNOME": "WOODS",
+        "NOME": "Michael",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 1116,
+        "COGNOME": "WRIGHT",
+        "NOME": "Fred",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "VALORE": 21
+        },
+        {
+        "NUMERO": 1117,
+        "COGNOME": "WRIGHT",
+        "NOME": "Paul",
+        "SQUADRA": "BOLTON",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1118,
+        "COGNOME": "WURF",
+        "NOME": "Cameron",
+        "SQUADRA": "INEOS",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1119,
+        "COGNOME": "WURTZ SCHMIDT",
+        "NOME": "Mads",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1120,
+        "COGNOME": "YATES",
+        "NOME": "Adam",
+        "SQUADRA": "UAE EMIRATES",
+        "VALORE": 29
+        },
+        {
+        "NUMERO": 1121,
+        "COGNOME": "YATES",
+        "NOME": "Simon",
+        "SQUADRA": "BIKE EXCHANGE",
+        "VALORE": 24
+        },
+        {
+        "NUMERO": 1122,
+        "COGNOME": "ZABEL",
+        "NOME": "Rick",
+        "SQUADRA": "ISRAEL",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1123,
+        "COGNOME": "ZACCANTI",
+        "NOME": "FIlippo",
+        "SQUADRA": "?",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 1124,
+        "COGNOME": "ZAKHAROV",
+        "NOME": "Artyom",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1125,
+        "COGNOME": "ZAMBANINI",
+        "NOME": "Edoardo",
+        "SQUADRA": "BAHRAIN",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1127,
+        "COGNOME": "ZAMBELLI",
+        "NOME": "Samuele",
+        "SQUADRA": "?",
+        "U25": "U",
+        "ITA": "🇮🇹"
+        },
+        {
+        "NUMERO": 1126,
+        "COGNOME": "ZAMBELLI",
+        "NOME": "Samuele",
+        "SQUADRA": "CORRATEC",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1128,
+        "COGNOME": "ZANA",
+        "NOME": "FIlippo",
+        "SQUADRA": "BIKE EXCHANGE",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 2
+        },
+        {
+        "NUMERO": 1129,
+        "COGNOME": "ZANONCELLO",
+        "NOME": "Enrico",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1130,
+        "COGNOME": "ZEITS",
+        "NOME": "Andrey",
+        "SQUADRA": "ASTANA",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1131,
+        "COGNOME": "ZHYHUNOU",
+        "NOME": "Dzmitry",
+        "SQUADRA": "?"
+        },
+        {
+        "NUMERO": 1152,
+        "COGNOME": "ZIJLAARD",
+        "NOME": "Maikel",
+        "SQUADRA": "TUDOR",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1132,
+        "COGNOME": "ZIMMERMANN",
+        "NOME": "Georg",
+        "SQUADRA": "INTERMARCHE",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1133,
+        "COGNOME": "ZINGLE",
+        "NOME": "Axel",
+        "SQUADRA": "COFIDIS",
+        "U25": "U",
+        "VALORE": 3
+        },
+        {
+        "NUMERO": 1134,
+        "COGNOME": "ZOCCARATO",
+        "NOME": "Samuele",
+        "SQUADRA": "BARDIANI",
+        "U25": "U",
+        "ITA": "🇮🇹",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1135,
+        "COGNOME": "ZUKOWSKY",
+        "NOME": "Nickolas",
+        "SQUADRA": "Q36.5",
+        "U25": "U",
+        "VALORE": 1
+        },
+        {
+        "NUMERO": 1136,
+        "COGNOME": "ZURITA",
+        "NOME": "Ricardo Alejandro",
+        "SQUADRA": "?",
+        "U25": "U"
+        },
+        {
+        "NUMERO": 1137,
+        "COGNOME": "ZWIEHOFF",
+        "NOME": "Ben",
+        "SQUADRA": "BORA",
+        "VALORE": 1
+        }
+   ]
+}
