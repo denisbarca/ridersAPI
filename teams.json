@@ -1,0 +1,194 @@
+{
+    "items": [
+      {
+        "codice": "01",
+        "descrizione": "AG2R Citroën Team",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "02",
+        "descrizione": "Alpecin-Deceuninck",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "03",
+        "descrizione": "Astana Qazaqstan Team",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "04",
+        "descrizione": "Bahrain - Victorious",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "05",
+        "descrizione": "BORA - hansgrohe",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "06",
+        "descrizione": "Cofidis",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "07",
+        "descrizione": "EF Education-EasyPost",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "08",
+        "descrizione": "Groupama - FDJ",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "09",
+        "descrizione": "INEOS Grenadiers",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "10",
+        "descrizione": "Intermarché - Circus - Wanty",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "11",
+        "descrizione": "Jumbo-Visma",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "12",
+        "descrizione": "Movistar Team",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "13",
+        "descrizione": "Soudal - Quick Step",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "14",
+        "descrizione": "Team Arkéa Samsic",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "15",
+        "descrizione": "Team DSM",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "16",
+        "descrizione": "Team Jayco AlUla",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "17",
+        "descrizione": "Trek - Segafredo",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "18",
+        "descrizione": "UAE Team Emirates",
+		"tipo": "UCI WorldTeams"
+      },
+      {
+        "codice": "19",
+        "descrizione": "Bingoal WB",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "20",
+        "descrizione": "Bolton Equities Black Spoke",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "21",
+        "descrizione": "Burgos-BH",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "22",
+        "descrizione": "Caja Rural - Seguros RGA",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "23",
+        "descrizione": "EOLO-Kometa",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "24",
+        "descrizione": "Equipo Kern Pharma",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "25",
+        "descrizione": "Euskaltel - Euskadi",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "26",
+        "descrizione": "Green Project-Bardiani CSF-Faizanè",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "27",
+        "descrizione": "Human Powered Health",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "28",
+        "descrizione": "Israel - Premier Tech",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "29",
+        "descrizione": "Lotto Dstny",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "30",
+        "descrizione": "Q36.5 Pro Cycling Team",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "31",
+        "descrizione": "Team Corratec",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "32",
+        "descrizione": "Team Flanders - Baloise",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "33",
+        "descrizione": "Team Novo Nordisk",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "34",
+        "descrizione": "TotalEnergies",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "35",
+        "descrizione": "Tudor Pro Cycling Team",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "36",
+        "descrizione": "Uno-X Pro Cycling Team",
+		"tipo": "UCI ProTeams"
+      },
+      {
+        "codice": "37",
+        "descrizione": "Astana Qazaqstan Development Team",
+		"tipo": "UCI Continental Teams"
+      },
+      {
+        "codice": "38",
+        "descrizione": "Alpecin-Deceuninck Development Team",
+		"tipo": "UCI Continental Teams"
+      }
+    ]
+}
